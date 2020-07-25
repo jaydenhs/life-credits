@@ -1,16 +1,13 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
+import "./App.css";
 import Person from "./person";
+import Particles from "react-particles-js";
 
-let sections = [
-  "birth",
-  "childhood",
-  "elementary school",
-  "high school",
-  "university",
-];
-
-let birth = [
+let information = [
+  {
+    divider: "birth",
+  },
   {
     name: "Diana Tai",
     role: "mother",
@@ -21,9 +18,9 @@ let birth = [
     role: "father",
     description: "insert description of what the person did here",
   },
-];
-
-let elementary_school = [
+  {
+    divider: "elementary school",
+  },
   {
     name: "Norah Langton",
     role: "piano teacher",
@@ -49,18 +46,9 @@ let elementary_school = [
     role: "sixth grade teacher",
     description: "insert description of what the person did here",
   },
-];
-
-let high_school = [
   {
-    name: "Brenda Csordas",
-    role: "biology teacher",
-    description:
-      "thank you for teaching me the importance of educating future generations",
+    divider: "university",
   },
-];
-
-let university = [
   {
     name: "Judy Zhong",
     role: "systems design mentor",
@@ -81,14 +69,71 @@ let university = [
 export default class MainScreen extends React.Component {
   render() {
     return (
-      <div>
+      <div class="position-relative h-100">
+        <div>
+          <Particles
+            canvasClassName="full-page-container"
+            params={{
+              particles: {
+                number: {
+                  value: 50,
+                  density: {
+                    enable: true,
+                    value_area: 2000,
+                  },
+                },
+                line_linked: {
+                  enable: true,
+                  opacity: 0.03,
+                },
+                move: {
+                  direction: "down",
+                  speed: 0.1,
+                },
+                size: {
+                  value: 6,
+                  random: true,
+                  anim: {
+                    enable: true,
+                    speed: 2,
+                    size_min: 2,
+                    sync: false,
+                  },
+                },
+                opacity: {
+                  random: true,
+                  anim: {
+                    enable: true,
+                    speed: 1,
+                    opacity_min: 0.06,
+                  },
+                },
+              },
+              interactivity: {
+                events: {
+                  onclick: {
+                    enable: true,
+                    mode: "push",
+                  },
+                },
+                modes: {
+                  push: {
+                    particles_nb: 1,
+                  },
+                },
+              },
+              retina_detect: true,
+            }}
+          />
+        </div>
+
         {/* use keys as dividers instead */}
-        {sections.map((value) => {
-          let divider_name = value.replace(" ", "_");
-          // return <h2 class="divider">{value}</h2>;
-          `${divider_name}`.map((value, index) => {
-            return <Person info={`${divider_name}`[index]} />;
-          });
+        {information.map((value, index) => {
+          if (information[index].hasOwnProperty("name")) {
+            return <Person info={information[index]} />;
+          } else {
+            return <h2 class="divider">{information[index].divider}</h2>;
+          }
         })}
       </div>
     );

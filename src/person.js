@@ -65,9 +65,11 @@ function Person(props) {
       <div
         ref={content}
         style={{ maxHeight: `${setHeight}` }}
-        className="accordion__content"
+        className="accordion__content d-flex justify-content-center"
       >
-        <p style={{ transition: "height 0.25s linear" }}>{description}</p>
+        <p style={{ transition: "height 0.25s linear" }} className="w-75">
+          {description}
+        </p>
       </div>
     </div>
   );
