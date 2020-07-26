@@ -2,6 +2,8 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
 import Person from "./person";
+import Header from "./Header";
+import Footer from "./Footer";
 import Particles from "react-particles-js";
 
 let information = [
@@ -70,7 +72,8 @@ export default class MainScreen extends React.Component {
   render() {
     return (
       <div class="position-relative h-100">
-        <div>
+        <Header />
+        <div id="particles-js">
           <Particles
             canvasClassName="full-page-container"
             params={{
@@ -109,32 +112,21 @@ export default class MainScreen extends React.Component {
                   },
                 },
               },
-              interactivity: {
-                events: {
-                  onclick: {
-                    enable: true,
-                    mode: "push",
-                  },
-                },
-                modes: {
-                  push: {
-                    particles_nb: 1,
-                  },
-                },
-              },
               retina_detect: true,
             }}
           />
         </div>
-
-        {/* use keys as dividers instead */}
-        {information.map((value, index) => {
-          if (information[index].hasOwnProperty("name")) {
-            return <Person info={information[index]} />;
-          } else {
-            return <h2 class="divider">{information[index].divider}</h2>;
-          }
-        })}
+        <div class="mr-4 ml-4">
+          {/* use keys as dividers instead */}
+          {information.map((value, index) => {
+            if (information[index].hasOwnProperty("name")) {
+              return <Person info={information[index]} />;
+            } else {
+              return <h2 class="divider">{information[index].divider}</h2>;
+            }
+          })}
+        </div>
+        <Footer />
       </div>
     );
   }
