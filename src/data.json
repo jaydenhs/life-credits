@@ -26,6 +26,33 @@
       "name": "Amy Hall",
       "role": "piano teacher",
       "description": "thank you for encouraging me to continue learning music and showing me how I can use these talents in worship"
+    },
+    {
+      "name": "Jeremy Kuikman",
+      "role": "sixth grade teacher",
+      "description": "thank you for igniting my love for math (and dodgeball)"
+    }
+  ],
+  "university": [
+    {
+      "name": "Daniel Kwon",
+      "role": "systems design mentor",
+      "description": "thank you for providing me with invaluable resume advice and guiding me through my first co-op application season"
+    },
+    {
+      "name": "Judy Zhong",
+      "role": "systems design mentor",
+      "description": "thank you for inspiring me to pursue product design and coaching me through design interview questions"
+    },
+    {
+      "name": "Vevina Trinh",
+      "role": "tech+ mentor",
+      "description": "thank you for guiding me through the portfolio ideation, design, and development process"
+    },
+    {
+      "name": "Sharon Zheng",
+      "role": "tech+ mentor",
+      "description": "thank you for inspiring me to integrate my love for design and development into my passion projects"
     }
   ]
 }
