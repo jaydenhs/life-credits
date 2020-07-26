@@ -1,0 +1,31 @@
+{
+  "birth": [
+    {
+      "name": "Diana Tai",
+      "role": "my mother",
+      "description": "thank you for teaching me the importance of honesty and always bringing a contagious excitement to every movie we watch"
+    },
+    {
+      "name": "Jerry Hsiao",
+      "role": "my dad",
+      "description": "thank you for demonstrating the importance of apologizing and showing me the beauty of nature"
+    }
+  ],
+  "elementary school": [
+    {
+      "name": "Norah Langton",
+      "role": "piano teacher",
+      "description": "thank you for introducing me to the world of piano - it has become such an integral part of who I am today"
+    },
+    {
+      "name": "Linda Penrice",
+      "role": "first grade teacher",
+      "description": "thank you for welcoming me to elementary school a year early and laying the foundation for my public speaking skills"
+    },
+    {
+      "name": "Amy Hall",
+      "role": "piano teacher",
+      "description": "thank you for encouraging me to continue learning music and showing me how I can use these talents in worship"
+    }
+  ]
+}

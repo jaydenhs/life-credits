@@ -6,67 +6,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Particles from "react-particles-js";
 
-let information = [
-  {
-    divider: "birth",
-  },
-  {
-    name: "Diana Tai",
-    role: "mother",
-    description: "insert description of what the person did here",
-  },
-  {
-    name: "Jerry Hsiao",
-    role: "father",
-    description: "insert description of what the person did here",
-  },
-  {
-    divider: "elementary school",
-  },
-  {
-    name: "Norah Langton",
-    role: "piano teacher",
-    description: "insert description of what the person did here",
-  },
-  {
-    name: "Linda Penrice",
-    role: "first grade teacher",
-    description: "insert description of what the person did here",
-  },
-  {
-    name: "Amy Hall",
-    role: "piano teacher",
-    description: "insert description of what the person did here",
-  },
-  {
-    name: "Sandy Grigsby",
-    role: "fifth grade teacher",
-    description: "insert description of what the person did here",
-  },
-  {
-    name: "Jeremy Kuikman",
-    role: "sixth grade teacher",
-    description: "insert description of what the person did here",
-  },
-  {
-    divider: "university",
-  },
-  {
-    name: "Judy Zhong",
-    role: "systems design mentor",
-    description: "insert description of what the person did here",
-  },
-  {
-    name: "Daniel Kwon",
-    role: "systems design mentor",
-    description: "insert description of what the person did here",
-  },
-  {
-    name: "Sharon Zheng",
-    role: "tech+ mentor",
-    description: "insert description of what the person did here",
-  },
-];
+import data from "./data.json";
 
 export default class MainScreen extends React.Component {
   render() {
@@ -118,13 +58,16 @@ export default class MainScreen extends React.Component {
         </div>
         <div class="mr-4 ml-4">
           {/* use keys as dividers instead */}
-          {information.map((value, index) => {
-            if (information[index].hasOwnProperty("name")) {
-              return <Person info={information[index]} />;
-            } else {
-              return <h2 class="divider">{information[index].divider}</h2>;
-            }
-          })}
+          {Object.keys(data).map((section) => (
+            <div>
+              {" "}
+              {/* you'll need some kind of wrapper element to not get yelled at */}
+              <h2 class="divider">{section.replace(/-/g, " ")}</h2>
+              {data[section].map((person) => (
+                <Person info={person} /> //or whichever component
+              ))}
+            </div>
+          ))}
         </div>
         <Footer />
       </div>
