@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div class="text-white min-vh-100" id="overlay">
+        <div class="text-white min-vh-100">
           <Loading />
         </div>
       </header>

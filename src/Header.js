@@ -6,9 +6,9 @@ import BackArrow from "./icons/BackArrow";
 
 function Header() {
   return (
-    <div class="d-flex flex-row p-4 background">
-      <BackArrow height="23px" />
-      <Help className="ml-auto" height="29px" />
+    <div class="d-flex flex-row p-4 background" style={{ zIndex: 15 }}>
+      <BackArrow className="top-icon" height="23px" />
+      <Help className="ml-auto top-icon" height="29px" />
     </div>
   );
 }

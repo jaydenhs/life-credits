@@ -3,6 +3,7 @@ import FadeIn from "react-fade-in";
 import Lottie from "react-lottie";
 import "bootstrap/dist/css/bootstrap.css";
 import MainScreen from "./mainscreen";
+import "./App.css";
 
 import * as legoData from "./legoloading.json";
 import * as doneData from "./doneloading.json";
@@ -40,26 +41,28 @@ export default class Loading extends React.Component {
         .then((response) => response.json())
         .then((json) => {
           this.setState({ loading: true });
-          setTimeout(() => {
-            this.setState({ done: true });
-          }, 0);
         });
-    }, 0);
+    }, 2000);
   }
   render() {
     return (
       <div>
-        {!this.state.done ? (
-          <FadeIn>
-            <div class="d-flex justify-content-center align-items-center">
-              <h1>fetching pizza</h1>
-              {!this.state.loading ? (
+        {!this.state.loading ? (
+          <div className={"d-flex align-items-center background vh-100 p-4"}>
+            <div>
+              <h1 style={{ fontSize: "5rem", lineHeight: "100%" }}>
+                LIFE CREDITS
+              </h1>
+              {/* {!this.state.loading ? (
                 <Lottie options={defaultOptions} height={120} width={120} />
               ) : (
                 <Lottie options={defaultOptions2} height={120} width={120} />
-              )}
+              )} */}
+              <div id="prbar" className="mt-4">
+                <div id="prpos"></div>
+              </div>
             </div>
-          </FadeIn>
+          </div>
         ) : (
           <MainScreen />
         )}

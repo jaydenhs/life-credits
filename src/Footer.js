@@ -1,8 +1,6 @@
 import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
-import Help from "./icons/Help";
-import BackArrow from "./icons/BackArrow";
 
 function Header() {
   return (
@@ -13,6 +11,7 @@ function Header() {
           href="https://github.com/JaydenHsiao/life-credits"
           class="text-white"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Jayden Hsiao
         </a>
