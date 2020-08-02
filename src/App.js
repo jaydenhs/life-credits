@@ -1,17 +1,19 @@
 import React from "react";
-import Loading from "./loading.js";
-import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
+import "./App.css";
+import { BrowserRouter as Router } from "react-router-dom";
+
+import { ParallaxProvider } from "react-skrollr";
+
+import Container from "./Container";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <div class="text-white min-vh-100">
-          <Loading />
-        </div>
-      </header>
-    </div>
+    <ParallaxProvider>
+      <Router>
+        <Container />
+      </Router>
+    </ParallaxProvider>
   );
 }
 

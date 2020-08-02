@@ -4,6 +4,10 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
 import "./Accordion.css";
 
+import { ParallaxProvider, Parallax } from "react-skrollr";
+
+import Heart from "./icons/Heart";
+
 function Person(props) {
   const { name, description, role } = props.info;
   const [setActive, setActiveState] = useState("");
@@ -43,6 +47,7 @@ function Person(props) {
           {description}
         </p>
       </div>
+      {/* <Heart height={30} /> */}
     </div>
   );
 }

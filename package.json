@@ -14,7 +14,13 @@
     "react-loading": "^2.0.3",
     "react-lottie": "^1.2.3",
     "react-particles-js": "^3.3.0",
-    "react-scripts": "3.4.1"
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-scroll-parallax": "^2.3.4",
+    "react-skrollr": "^1.0.4",
+    "react-transition-group": "^4.4.1",
+    "styled-components": "^5.1.1"
   },
   "scripts": {
     "predeploy": "npm run build",

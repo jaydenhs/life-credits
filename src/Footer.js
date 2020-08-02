@@ -10,6 +10,7 @@ function Header() {
         <a
           href="https://github.com/JaydenHsiao/life-credits"
           class="text-white"
+          style={{ textDecoration: "underline" }}
           target="_blank"
           rel="noopener noreferrer"
         >

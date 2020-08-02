@@ -30,6 +30,23 @@ p {
   margin: 0px;
 }
 
+.quote-text {
+  font-family: "Moon-Light", sans-serif;
+  font-size: 1.25rem;
+  color: white;
+}
+
+.larger-margin {
+  margin: 0rem 2.375rem 0rem 2.375rem;
+}
+
+.larger-margin > p,
+.larger-margin > h1 {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  display: block;
+}
+
 .divider {
   display: flex;
   flex-direction: row;
@@ -70,6 +87,9 @@ p {
   -webkit-transition: opacity 0.8s ease, -webkit-transform 1.4s ease;
   transition: opacity 0.8s ease, transform 1.4s ease;
   background-color: #1a1a1a;
+
+  min-height: 250vh;
+  overflow-y: hidden;
 }
 
 .background {
@@ -111,7 +131,7 @@ p {
   width: 0%;
   height: 100%;
   background-color: #fff;
-  animation: progress 1.5s ease-in-out 0.5s;
+  animation: progress 1.4s cubic-bezier(0.42, 0, 0.58, 1) 0.5s;
   animation-fill-mode: forwards;
 }
 
@@ -122,4 +142,19 @@ p {
   100% {
     width: 100%;
   }
+}
+
+.fade-enter {
+  opacity: 0;
+}
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms;
+}
+.fade-exit {
+  opacity: 1;
+}
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 1000ms;
 }
