@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/life-credits/static/css/main.87fe290d.chunk.css",
-    "main.js": "/life-credits/static/js/main.c4f0a0c0.chunk.js",
-    "main.js.map": "/life-credits/static/js/main.c4f0a0c0.chunk.js.map",
+    "main.css": "/life-credits/static/css/main.4ad887d9.chunk.css",
+    "main.js": "/life-credits/static/js/main.1633a2b5.chunk.js",
+    "main.js.map": "/life-credits/static/js/main.1633a2b5.chunk.js.map",
     "runtime-main.js": "/life-credits/static/js/runtime-main.7a014fcb.js",
     "runtime-main.js.map": "/life-credits/static/js/runtime-main.7a014fcb.js.map",
     "static/css/2.829c9cb5.chunk.css": "/life-credits/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ee9eb4be.chunk.js": "/life-credits/static/js/2.ee9eb4be.chunk.js",
-    "static/js/2.ee9eb4be.chunk.js.map": "/life-credits/static/js/2.ee9eb4be.chunk.js.map",
+    "static/js/2.80469cb3.chunk.js": "/life-credits/static/js/2.80469cb3.chunk.js",
+    "static/js/2.80469cb3.chunk.js.map": "/life-credits/static/js/2.80469cb3.chunk.js.map",
     "index.html": "/life-credits/index.html",
-    "precache-manifest.523964287e4f7cc2d14eaa4943c39857.js": "/life-credits/precache-manifest.523964287e4f7cc2d14eaa4943c39857.js",
+    "precache-manifest.a23f0f404dbc32331fbaf7a9b73da0b1.js": "/life-credits/precache-manifest.a23f0f404dbc32331fbaf7a9b73da0b1.js",
     "service-worker.js": "/life-credits/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/life-credits/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.87fe290d.chunk.css.map": "/life-credits/static/css/main.87fe290d.chunk.css.map",
-    "static/js/2.ee9eb4be.chunk.js.LICENSE.txt": "/life-credits/static/js/2.ee9eb4be.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/life-credits/static/media/Moon-Light.9e268827.otf"
+    "static/css/main.4ad887d9.chunk.css.map": "/life-credits/static/css/main.4ad887d9.chunk.css.map",
+    "static/js/2.80469cb3.chunk.js.LICENSE.txt": "/life-credits/static/js/2.80469cb3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/life-credits/static/media/Moon-Light.9e268827.otf",
+    "static/media/quote.svg": "/life-credits/static/media/quote.9d640b66.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a014fcb.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.ee9eb4be.chunk.js",
-    "static/css/main.87fe290d.chunk.css",
-    "static/js/main.c4f0a0c0.chunk.js"
+    "static/js/2.80469cb3.chunk.js",
+    "static/css/main.4ad887d9.chunk.css",
+    "static/js/main.1633a2b5.chunk.js"
   ]
 }
