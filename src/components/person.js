@@ -4,8 +4,6 @@ import "bootstrap/dist/css/bootstrap.css";
 import "../App.css";
 import "../styles/Accordion.css";
 
-import { ParallaxProvider, Parallax } from "react-skrollr";
-
 import Heart from "../icons/Heart";
 
 function Person(props) {
