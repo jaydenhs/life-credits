@@ -7,7 +7,11 @@ import { ParallaxProvider } from "react-skrollr";
 
 import Container from "./Container";
 
+import AOS from "aos";
+import "aos/dist/aos.css";
+
 function App() {
+  AOS.init();
   return (
     <ParallaxProvider>
       <Router>

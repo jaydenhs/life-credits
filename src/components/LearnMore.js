@@ -3,7 +3,7 @@ import Header from "./Header";
 import Particles from "react-particles-js";
 import "bootstrap/dist/css/bootstrap.css";
 
-import Quote from "./icons/quote.svg";
+import Quote from "../icons/quote.svg";
 
 function LearnMore() {
   return (

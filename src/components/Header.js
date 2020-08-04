@@ -1,8 +1,8 @@
 import React from "react";
-import "./App.css";
+import "../App.css";
 import "bootstrap/dist/css/bootstrap.css";
-import Help from "./icons/Help";
-import BackArrow from "./icons/BackArrow";
+import Help from "../icons/Help";
+import BackArrow from "../icons/BackArrow";
 import { Link, Switch, Route, withRouter } from "react-router-dom";
 
 function Header({ location }) {
