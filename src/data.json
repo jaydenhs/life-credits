@@ -10,6 +10,11 @@
       "name": "Jerry Hsiao",
       "role": "my dad",
       "description": "thank you for demonstrating the importance of apologizing and showing me the beauty of nature"
+    },
+    {
+      "name": "Jeriann Hsiao",
+      "role": "my sister",
+      "description": "thank you for setting such an excellent example for me in school, piano, and life! you unironically are the best sister"
     }
   ],
   "elementary school": [
@@ -66,9 +71,19 @@
       "description": "thank you for using your incredible intelligence to very patiently teach us about chemistry"
     },
     {
+      "name": "Nolan Cross",
+      "role": "my friend",
+      "description": "thank you for demonstrating what a true passion and appreciation for music and the piano looks like"
+    },
+    {
       "name": "David McCreary",
       "role": "graphic design teacher",
       "description": "thank you for introducing me to the world of graphic design - without it I would have never discovered my passion for UX/UI design!"
+    },
+    {
+      "name": "David Dean",
+      "role": "student trustee mentor",
+      "description": "thank you for guiding me through my responsibilities as a student trustee and patiently supporting me in my campaigns for student wellbeing"
     },
     {
       "name": "Danielle Curtis",
@@ -77,6 +92,16 @@
     }
   ],
   "university": [
+    {
+      "name": "David Mahn",
+      "role": "family friend",
+      "description": "literally OP OP resume help"
+    },
+    {
+      "name": "Emily Louie",
+      "role": "my friend",
+      "description": "thank you for supporting me as we walked through mentorships, designathons, building our first portfolios, and our first co-op together!"
+    },
     {
       "name": "Daniel Kwon",
       "role": "systems design mentor",
@@ -96,6 +121,21 @@
       "name": "Vevina Trinh",
       "role": "tech+ mentor",
       "description": "thank you for guiding me through the portfolio ideation, design, and development process"
+    },
+    {
+      "name": "Xiaopu Fung",
+      "role": "lab leader",
+      "description": "thank you for taking a chance on me, showing me how rewarding public service can be, and demonstrating how to promote diversity from a leadership role"
+    },
+    {
+      "name": "James Kelly",
+      "role": "faithtech founder",
+      "description": "thank you for creating an outlet for so many Christians to use their skills to further God's Kingdom"
+    },
+    {
+      "name": "Ken Ives",
+      "role": "acapella group leader",
+      "description": "thank you for building a supportive community where people can develop their vocal skills togetherz"
     },
     {
       "name": "Igor Ivkovic",

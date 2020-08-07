@@ -88,7 +88,7 @@ p {
   transition: opacity 0.8s ease, transform 1.4s ease;
   background-color: #1a1a1a;
 
-  min-height: 500vh;
+  min-height: 600vh;
   overflow-y: hidden;
 }
 

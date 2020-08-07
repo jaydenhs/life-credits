@@ -9,7 +9,8 @@ import Loading from "./components/Loading";
 import Home from "./components/Home";
 import LearnMore from "./components/LearnMore";
 
-import Particles from "react-particles-js";
+// import Particles from "react-particles-js";
+import Particles from "react-tsparticles";
 
 function Container({ location }) {
   return (
@@ -34,22 +35,28 @@ function Container({ location }) {
         <div id="particles-js">
           <Particles
             canvasClassName="full-page-container"
-            params={{
+            options={{
+              background: {
+                color: {
+                  value: "#1a1a1a",
+                },
+              },
+              fpsLimit: 10,
               particles: {
+                color: {
+                  value: "#ffffff",
+                },
+                move: {
+                  direction: "none",
+                  enable: true,
+                  speed: 0.1,
+                },
                 number: {
                   value: 50,
                   density: {
                     enable: true,
                     value_area: 2000,
                   },
-                },
-                line_linked: {
-                  enable: true,
-                  opacity: 0.03,
-                },
-                move: {
-                  direction: "down",
-                  speed: 0.1,
                 },
                 size: {
                   value: 6,
@@ -70,7 +77,7 @@ function Container({ location }) {
                   },
                 },
               },
-              retina_detect: true,
+              detectRetina: true,
             }}
           />
         </div>
