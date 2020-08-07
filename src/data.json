@@ -29,9 +29,51 @@
       "description": "thank you for encouraging me to continue learning music and showing me how I can use these talents in worship"
     },
     {
+      "name": "Caleb Mulder",
+      "role": "my friend",
+      "description": "thank you for being the best workout buddy and inspiring me to be courageous in my faith"
+    },
+    {
+      "name": "Paul Chen",
+      "role": "my friend",
+      "description": "thank you for exhibiting how important it is to bring a seemingly-infinite amount of enthusiasm to anything I lead"
+    },
+    {
+      "name": "Elliot Pai",
+      "role": "my cousin",
+      "description": "thank you for being as close to a brother that I could have - I owe a lot of my sillyness to you!"
+    },
+    {
       "name": "Jeremy Kuikman",
       "role": "sixth grade teacher",
       "description": "thank you for igniting my love for math (and dodgeball)"
+    }
+  ],
+  "high school": [
+    {
+      "name": "Brenda Csordas",
+      "role": "biology teacher",
+      "description": "thank you for having such a contagious passion for biology and dedicating so much of your time to helping me prepare for university"
+    },
+    {
+      "name": "Brian Garcia",
+      "role": "math teacher",
+      "description": "thank you for providing me with the advice and environment to grow my love for chess"
+    },
+    {
+      "name": "Michael D'Agostino",
+      "role": "chemistry teacher",
+      "description": "thank you for using your incredible intelligence to very patiently teach us about chemistry"
+    },
+    {
+      "name": "David McCreary",
+      "role": "graphic design teacher",
+      "description": "thank you for introducing me to the world of graphic design - without it I would have never discovered my passion for UX/UI design!"
+    },
+    {
+      "name": "Danielle Curtis",
+      "role": "photography teacher",
+      "description": "thank you for stretching my photography and creativity to limits that I would have never imagined"
     }
   ],
   "university": [
@@ -46,9 +88,24 @@
       "description": "thank you for inspiring me to pursue product design and coaching me through design interview questions"
     },
     {
+      "name": "Michael Shiozaki",
+      "role": "systems design mentor",
+      "description": "thank you for welcoming me to my first year of university acapella!"
+    },
+    {
       "name": "Vevina Trinh",
       "role": "tech+ mentor",
       "description": "thank you for guiding me through the portfolio ideation, design, and development process"
+    },
+    {
+      "name": "Igor Ivkovic",
+      "role": "circuitry professor",
+      "description": "thank you for fascinating me with the intricacies of computer architecture and caring so much for your students both inside and outside of the classroom"
+    },
+    {
+      "name": "Shi Cao",
+      "role": "algorithms professor",
+      "description": "thank you for blending interactivity and art into your lectures"
     },
     {
       "name": "Sharon Zheng",

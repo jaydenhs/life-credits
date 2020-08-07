@@ -32,4 +32,9 @@
 .accordion__content {
   overflow: hidden;
   transition: max-height 0.4s ease;
+  line-height: 130%;
+}
+
+.accordion__h2 {
+  line-height: 130%;
 }

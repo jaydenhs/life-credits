@@ -25,7 +25,7 @@ export default class Home extends React.Component {
                   class="divider"
                   data-aos="fade-up"
                   data-aos-duration="1000"
-                  data-aos-delay={curr_num <= 4 ? curr_num * 200 : 0}
+                  data-aos-delay={curr_num <= 2 ? curr_num * 200 : 0}
                   data-aos-once="true"
                 >
                   {section}

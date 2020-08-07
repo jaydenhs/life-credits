@@ -38,7 +38,7 @@ function Person(props) {
         >
           <h1>{name}</h1>
           <div className="d-flex flex-row justify-content-center align-items-center">
-            <h2>{role}</h2>
+            <h2 className="accordion__h2">{role}</h2>
             <Chevron className={`${setRotate}`} height={18} fill={"#cdcdcd"} />
           </div>
         </button>
