@@ -2,12 +2,12 @@ import React, { useState, useRef } from "react";
 import Chevron from "../icons/Chevron";
 import "bootstrap/dist/css/bootstrap.css";
 import "../App.css";
-import "../styles/Accordion.css";
+import "../styles/Person.css";
 
 import Heart from "../icons/Heart";
 
 function Person(props) {
-  const { name, description, role } = props.info;
+  const { name, description, role, icon } = props.info;
   const [setActive, setActiveState] = useState("");
   const [setHeight, setHeightState] = useState("0px");
   const [setRotate, setRotateState] = useState("accordion__icon");
@@ -23,6 +23,10 @@ function Person(props) {
       setActive === "active" ? "accordion__icon" : "accordion__icon rotate"
     );
   }
+
+  let heart_icon = (
+    <Heart className="position-absolute icon_right" height={30} />
+  );
 
   return (
     <div
@@ -41,6 +45,8 @@ function Person(props) {
             <h2 className="accordion__h2">{role}</h2>
             <Chevron className={`${setRotate}`} height={18} fill={"#cdcdcd"} />
           </div>
+          {/* <Heart className="position-absolute icon_right" height={30} /> */}
+          {icon === "heart" && heart_icon}
         </button>
         <div
           ref={content}
@@ -51,19 +57,6 @@ function Person(props) {
             {description}
           </p>
         </div>
-        {/* <ParallaxProvider>
-        <div id="skrollr-body">
-          <Parallax
-            data={{
-              "data-center-center": "opacity: 1;",
-              "data-bottom-top": "opacity: 0;",
-            }}
-          >
-            Some content or Component
-          </Parallax>
-        </div>
-      </ParallaxProvider> */}
-        {/* <Heart height={30} /> */}
       </div>
     </div>
   );

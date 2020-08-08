@@ -38,3 +38,10 @@
 .accordion__h2 {
   line-height: 130%;
 }
+
+/* Styling Constellation Icons */
+
+.icon_right {
+  top: 4rem;
+  right: 0rem;
+}

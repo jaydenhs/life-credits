@@ -1,10 +1,9 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "../App.css";
-import Person from "./person";
+import Person from "./Person";
 import Header from "./Header";
 import Footer from "./Footer";
-import Particles from "react-particles-js";
 
 import data from "../data.json";
 

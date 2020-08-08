@@ -1,6 +1,5 @@
 import React from "react";
 import Header from "./Header";
-import Particles from "react-particles-js";
 import "bootstrap/dist/css/bootstrap.css";
 
 import Quote from "../icons/quote.svg";
@@ -25,7 +24,7 @@ function LearnMore() {
             data-aos-delay="0"
             data-aos-once="true"
           >
-            <img src={Quote} />
+            <img src={Quote} alt="quotation mark" />
             <div className="larger-margin">
               <span class="quote-text">
                 "For I know the plans I have for you,” declares the Lord,
@@ -39,6 +38,7 @@ function LearnMore() {
               <img
                 src={Quote}
                 className="d-block ml-auto"
+                alt="quotation mark"
                 style={{ transform: "rotate(180deg)", marginTop: "-1.25rem" }}
               />
             </span>
