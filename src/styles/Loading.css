@@ -1,0 +1,29 @@
+/* loading bar CSS */
+#prbar {
+  margin: 5px;
+  width: 100%;
+  height: 20px;
+  overflow: hidden;
+
+  /* Rounded Border */
+  border: 1px solid #fff;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+
+#prpos {
+  width: 0%;
+  height: 100%;
+  background-color: #fff;
+  animation: progress 1.4s cubic-bezier(0.42, 0, 0.58, 1) 0.5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes progress {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}

@@ -1,6 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
+import "./styles/Container.css";
 import styled from "styled-components";
 import { Switch, Route, withRouter } from "react-router-dom";
 import { TransitionGroup, CSSTransition } from "react-transition-group";
@@ -9,26 +10,25 @@ import Loading from "./components/Loading";
 import Home from "./components/Home";
 import LearnMore from "./components/LearnMore";
 
-// import Particles from "react-particles-js";
 import Particles from "react-tsparticles";
 
 function Container({ location }) {
   return (
     <Wrapper>
-      <div class="position-relative">
-        <TransitionGroup className="transition-group">
+      <div class="position-relative h-100 overflow-hidden">
+        <TransitionGroup className="transition-group" component={null}>
           <CSSTransition
             key={location.key}
             timeout={{ enter: 500, exit: 500 }}
             classNames="fade"
           >
-            <section className="route-section">
+            <div className="route-section">
               <Switch location={location}>
                 <Route exact path="/life-credits" component={Loading} />
                 <Route path="/life-credits/home" component={Home} />
                 <Route path="/life-credits/learn_more" component={LearnMore} />
               </Switch>
-            </section>
+            </div>
           </CSSTransition>
         </TransitionGroup>
 
@@ -44,15 +44,15 @@ function Container({ location }) {
               fpsLimit: 10,
               particles: {
                 color: {
-                  value: "#ffffff",
+                  value: "#cdcdcd",
                 },
                 move: {
                   direction: "none",
                   enable: true,
-                  speed: 0.1,
+                  speed: 0.15,
                 },
                 number: {
-                  value: 50,
+                  value: 40,
                   density: {
                     enable: true,
                     value_area: 2000,
@@ -61,12 +61,12 @@ function Container({ location }) {
                 size: {
                   value: 6,
                   random: true,
-                  anim: {
-                    enable: true,
-                    speed: 2,
-                    size_min: 2,
-                    sync: false,
-                  },
+                  // anim: {
+                  //   enable: true,
+                  //   speed: 2,
+                  //   size_min: 2,
+                  //   sync: false,
+                  // },
                 },
                 opacity: {
                   random: true,

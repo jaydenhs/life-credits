@@ -1,6 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "../App.css";
+import "../styles/Loading.css";
 
 import { Redirect } from "react-router-dom";
 

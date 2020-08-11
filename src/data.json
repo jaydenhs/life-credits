@@ -21,54 +21,64 @@
     {
       "name": "Norah Langton",
       "role": "piano teacher",
-      "description": "thank you for introducing me to the world of piano - it has become such an integral part of who I am today"
+      "description": "thank you for introducing me to the world of piano - it has become such an integral part of who I am today",
+      "icon": "music"
     },
     {
       "name": "Linda Penrice",
       "role": "first grade teacher",
-      "description": "thank you for welcoming me to elementary school a year early and laying the foundation for my public speaking skills"
+      "description": "thank you for welcoming me to elementary school a year early and laying the foundation for my public speaking skills",
+      "icon": "pencil"
     },
     {
       "name": "Amy Hall",
       "role": "piano teacher",
-      "description": "thank you for encouraging me to continue learning music and showing me how I can use these talents in worship"
+      "description": "thank you for encouraging me to continue learning music and showing me how I can use these talents in worship",
+      "icon": "piano"
     },
     {
       "name": "Caleb Mulder",
       "role": "my friend",
-      "description": "thank you for being the best workout buddy and inspiring me to be courageous in my faith"
+      "description": "thank you for being the best workout buddy and inspiring me to be courageous in my faith",
+      "icon": "dumbbell"
     },
     {
       "name": "Paul Chen",
       "role": "my friend",
-      "description": "thank you for exhibiting how important it is to bring a seemingly-infinite amount of enthusiasm to anything I lead"
+      "description": "thank you for exhibiting how important it is to bring a seemingly-infinite amount of enthusiasm to anything I lead",
+      "icon": "lightning"
     },
     {
       "name": "Elliot Pai",
       "role": "my cousin",
-      "description": "thank you for being as close to a brother that I could have - I owe a lot of my sillyness to you!"
+      "description": "thank you for being as close to a brother that I could have - I owe a lot of my sillyness to you!",
+      "icon": "smile"
     },
     {
       "name": "Jeremy Kuikman",
       "role": "sixth grade teacher",
-      "description": "thank you for igniting my love for math (and dodgeball)"
+      "description": "thank you for igniting my love for math (and dodgeball)",
+      "icon": "apple"
     }
   ],
   "high school": [
     {
       "name": "Brenda Csordas",
       "role": "biology teacher",
-      "description": "thank you for having such a contagious passion for biology and dedicating so much of your time to helping me prepare for university"
+      "description": "thank you for having such a contagious passion for biology and dedicating so much of your time to helping me prepare for university",
+      "icon": "leaf"
     },
     {
       "name": "Brian Garcia",
       "role": "math teacher",
-      "description": "thank you for providing me with the advice and environment to grow my love for chess"
+      "description": "thank you for providing me with the advice and environment to grow my love for chess",
+      "icon": "pawn"
     },
     {
       "name": "Michael D'Agostino",
       "role": "chemistry teacher",
-      "description": "thank you for using your incredible intelligence to very patiently teach us about chemistry"
+      "description": "thank you for using your incredible intelligence to very patiently teach us about chemistry",
+      "icon": "beaker"
     },
     {
       "name": "Nolan Cross",
@@ -78,24 +88,48 @@
     {
       "name": "David McCreary",
       "role": "graphic design teacher",
-      "description": "thank you for introducing me to the world of graphic design - without it I would have never discovered my passion for UX/UI design!"
+      "description": "thank you for introducing me to the world of graphic design - without it I would have never discovered my passion for UX/UI design!",
+      "icon": "cursor"
+    },
+    {
+      "name": "Naomi Wratten",
+      "role": "piano teacher",
+      "description": "thank you for providing me with the community and opportunities to push my limits as a pianist"
+    },
+    {
+      "name": "Graham Brown",
+      "role": "math teacher",
+      "description": "thank you for extending my passion for math beyond the classroom - after all, there are no equations to travel to the moon"
+    },
+    {
+      "name": "Nicole Pugh",
+      "role": "my friend",
+      "description": "thank you for just radiating kindness and wisdom in every situation"
     },
     {
       "name": "David Dean",
       "role": "student trustee mentor",
-      "description": "thank you for guiding me through my responsibilities as a student trustee and patiently supporting me in my campaigns for student wellbeing"
+      "description": "thank you for guiding me through my responsibilities as a student trustee and patiently supporting me in my campaigns for student wellbeing",
+      "icon": "pen"
     },
     {
       "name": "Danielle Curtis",
       "role": "photography teacher",
-      "description": "thank you for stretching my photography and creativity to limits that I would have never imagined"
+      "description": "thank you for stretching my photography and creativity to limits that I would have never imagined",
+      "icon": "camera"
     }
   ],
   "university": [
     {
       "name": "David Mahn",
       "role": "family friend",
-      "description": "thank you for helping me create my first resume and just being an all-around cool guy"
+      "description": "thank you for helping me create my first resume and just being an all-around cool guy",
+      "icon": "lightbulb"
+    },
+    {
+      "name": "Aaron Dyck",
+      "role": "my friend",
+      "description": "thank you for always being calm no matter the situation - I'm so glad that you were the first person that I met in uni!"
     },
     {
       "name": "Emily Louie",
@@ -104,17 +138,19 @@
     },
     {
       "name": "Daniel Kwon",
-      "role": "systems design mentor",
-      "description": "thank you for providing me with invaluable resume advice and guiding me through my first co-op application season"
+      "role": "program mentor",
+      "description": "thank you for providing me with invaluable resume advice and guiding me through my first co-op application season",
+      "icon": "laptop"
     },
     {
       "name": "Judy Zhong",
-      "role": "systems design mentor",
-      "description": "thank you for inspiring me to pursue product design and coaching me through design interview questions"
+      "role": "program mentor",
+      "description": "thank you for inspiring me to pursue product design and coaching me through design interview questions",
+      "icon": "speech"
     },
     {
       "name": "Michael Shiozaki",
-      "role": "systems design mentor",
+      "role": "program mentor",
       "description": "thank you for welcoming me to my first year of university acapella!"
     },
     {
@@ -130,12 +166,14 @@
     {
       "name": "James Kelly",
       "role": "faithtech founder",
-      "description": "thank you for creating an outlet for so many Christians to use their skills to further God's Kingdom"
+      "description": "thank you for creating an outlet for so many Christians to use their skills to further God's Kingdom",
+      "icon": "cross"
     },
     {
       "name": "Ken Ives",
       "role": "acapella group leader",
-      "description": "thank you for building a supportive community where people can develop their vocal skills togetherz"
+      "description": "thank you for building a supportive community where people can develop their vocal skills together",
+      "icon": "microphone"
     },
     {
       "name": "Igor Ivkovic",

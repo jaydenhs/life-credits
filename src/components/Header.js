@@ -1,5 +1,6 @@
 import React from "react";
 import "../App.css";
+import "../styles/Header.css";
 import "bootstrap/dist/css/bootstrap.css";
 import Help from "../icons/Help";
 import BackArrow from "../icons/BackArrow";

@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import "bootstrap/dist/css/bootstrap.css";
+import "../styles/LearnMore.css";
 
 import Quote from "../icons/quote.svg";
 
@@ -34,7 +35,7 @@ function LearnMore() {
                 hope and a future."
               </span>
             </div>
-            <span className="w-100">
+            <span className="w-100" id="chunk">
               <img
                 src={Quote}
                 className="d-block ml-auto"

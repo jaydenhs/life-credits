@@ -1,6 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "../App.css";
+import "../styles/Home.css";
 import Person from "./Person";
 import Header from "./Header";
 import Footer from "./Footer";
@@ -8,6 +9,8 @@ import Footer from "./Footer";
 import data from "../data.json";
 
 let curr_num = 0;
+
+let icon_pos = "br";
 
 export default class Home extends React.Component {
   render() {
@@ -24,16 +27,19 @@ export default class Home extends React.Component {
                   class="divider"
                   data-aos="fade-up"
                   data-aos-duration="1000"
-                  data-aos-delay={curr_num <= 2 ? curr_num * 200 : 0}
+                  data-aos-delay={curr_num <= 4 ? curr_num * 200 : 0}
                   data-aos-once="true"
                 >
                   {section}
                 </h2>
                 {data[section].map((person) => {
+                  icon_pos =
+                    icon_pos === "br" ? (icon_pos = "bl") : (icon_pos = "br");
                   curr_num++;
                   return (
                     <Person
                       info={person}
+                      icon_pos={icon_pos}
                       delay={curr_num <= 4 ? curr_num * 200 : 200}
                     />
                   );

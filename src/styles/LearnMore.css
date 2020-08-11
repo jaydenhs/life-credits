@@ -1,0 +1,16 @@
+.quote-text {
+  font-family: "Moon-Light", sans-serif;
+  font-size: 1.25rem;
+  color: white;
+}
+
+.larger-margin {
+  margin: 0rem 2.375rem 0rem 2.375rem;
+}
+
+.larger-margin > p,
+.larger-margin > h1 {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  display: block;
+}

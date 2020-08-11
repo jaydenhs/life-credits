@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.269" height="44.269" viewBox="0 0 29.269 44.269">
+  <g id="cursor" transform="translate(-109 -102.945)">
+    <circle id="Ellipse_31" data-name="Ellipse 31" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 109, 103.224)" fill="#fff"/>
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 110, 139.224)" fill="#fff"/>
+    <circle id="Ellipse_33" data-name="Ellipse 33" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 117, 133.224)" fill="#fff"/>
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 123, 143.224)" fill="#fff"/>
+    <circle id="Ellipse_35" data-name="Ellipse 35" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 129, 140.224)" fill="#fff"/>
+    <circle id="Ellipse_36" data-name="Ellipse 36" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 125, 129.224)" fill="#fff"/>
+    <circle id="Ellipse_37" data-name="Ellipse 37" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 134, 128.224)" fill="#fff"/>
+    <g id="Group_27" data-name="Group 27" opacity="0.7">
+      <line id="Line_119" data-name="Line 119" y1="36" transform="translate(111.5 105.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_120" data-name="Line 120" x2="25" y2="25" transform="translate(111.5 105.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_121" data-name="Line 121" x1="10" transform="translate(126.5 130.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_122" data-name="Line 122" x2="4" y2="11" transform="translate(127.5 131.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_123" data-name="Line 123" x1="7" y2="3" transform="translate(124.5 142.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_124" data-name="Line 124" x2="6" y2="10" transform="translate(119.5 135.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_125" data-name="Line 125" x1="8" y2="6" transform="translate(111.5 135.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
