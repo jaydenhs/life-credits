@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.269" height="57.269" viewBox="0 0 58.269 57.269">
+  <g id="microphone" transform="translate(-509 -95.945)">
+    <circle id="Ellipse_108" data-name="Ellipse 108" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 512, 146.224)" fill="#fff"/>
+    <circle id="Ellipse_109" data-name="Ellipse 109" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 509, 139.224)" fill="#fff"/>
+    <circle id="Ellipse_111" data-name="Ellipse 111" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 519, 149.224)" fill="#fff"/>
+    <circle id="Ellipse_112" data-name="Ellipse 112" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 548, 122.224)" fill="#fff"/>
+    <circle id="Ellipse_113" data-name="Ellipse 113" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 559, 118.224)" fill="#fff"/>
+    <circle id="Ellipse_114" data-name="Ellipse 114" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 563, 109.224)" fill="#fff"/>
+    <circle id="Ellipse_115" data-name="Ellipse 115" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 549, 96.224)" fill="#fff"/>
+    <circle id="Ellipse_117" data-name="Ellipse 117" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 559, 99.224)" fill="#fff"/>
+    <circle id="Ellipse_116" data-name="Ellipse 116" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 540, 100.224)" fill="#fff"/>
+    <circle id="Ellipse_110" data-name="Ellipse 110" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 536, 110.224)" fill="#fff"/>
+    <circle id="Ellipse_118" data-name="Ellipse 118" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 521, 137.224)" fill="#fff"/>
+    <circle id="Ellipse_119" data-name="Ellipse 119" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 535, 123.224)" fill="#fff"/>
+    <g id="Group_41" data-name="Group 41">
+      <line id="Line_197" data-name="Line 197" y1="28" x2="26" transform="translate(511.5 112.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_198" data-name="Line 198" x2="4" y2="8" transform="translate(510.5 140.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_199" data-name="Line 199" x2="8" y2="3" transform="translate(513.5 148.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_200" data-name="Line 200" y1="28" x2="29" transform="translate(521.5 123.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_201" data-name="Line 201" y1="5" x2="11" transform="translate(550.5 119.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_202" data-name="Line 202" y1="9" x2="4" transform="translate(561.5 111.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_203" data-name="Line 203" x1="4" y1="10" transform="translate(561.5 101.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_204" data-name="Line 204" x1="11" y1="3" transform="translate(550.5 97.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_205" data-name="Line 205" x1="10" y2="5" transform="translate(541.5 97.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_206" data-name="Line 206" x1="4" y2="11" transform="translate(537.5 101.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_207" data-name="Line 207" x2="19" y2="19" transform="translate(542.5 101.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+      <line id="Line_208" data-name="Line 208" y1="14" x2="14" transform="translate(522.5 125.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.7"/>
+    </g>
+  </g>
+</svg>

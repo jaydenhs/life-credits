@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.269" height="30.269" viewBox="0 0 23.269 19.269">
+  <g id="smile" transform="translate(-459.208 -41.945)">
+    <g id="Group_11" data-name="Group 11" transform="translate(-41 -40)">
+      <g id="Component_2_497" data-name="Component 2 – 497" transform="matrix(0.998, -0.07, 0.07, 0.998, 504.208, 82.224)">
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_499" data-name="Component 2 – 499" transform="matrix(0.998, -0.07, 0.07, 0.998, 500.208, 93.224)">
+        <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_500" data-name="Component 2 – 500" transform="matrix(0.998, -0.07, 0.07, 0.998, 506.208, 97.224)">
+        <circle id="Ellipse_8-3" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_501" data-name="Component 2 – 501" transform="matrix(0.998, -0.07, 0.07, 0.998, 513.208, 97.224)">
+        <circle id="Ellipse_8-4" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_502" data-name="Component 2 – 502" transform="matrix(0.998, -0.07, 0.07, 0.998, 519.208, 92.224)">
+        <circle id="Ellipse_8-5" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_498" data-name="Component 2 – 498" transform="matrix(0.998, -0.07, 0.07, 0.998, 514.208, 82.224)">
+        <circle id="Ellipse_8-6" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(-41 -40)" opacity="0.7">
+      <line id="Line_62" data-name="Line 62" x2="6" y2="4" transform="translate(502.5 95.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_63" data-name="Line 63" x2="7" transform="translate(508.5 99.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_64" data-name="Line 64" x1="6" y2="5" transform="translate(515.5 94.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

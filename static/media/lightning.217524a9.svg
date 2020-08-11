@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.269" height="40.269" viewBox="0 0 20.269 40.269">
+  <g id="energy" transform="translate(-552.208 -28.945)">
+    <g id="Component_2_509" data-name="Component 2 – 509" transform="matrix(0.998, -0.07, 0.07, 0.998, 558.208, 29.224)">
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+    </g>
+    <g id="Component_2_510" data-name="Component 2 – 510" transform="matrix(0.998, -0.07, 0.07, 0.998, 567.208, 29.224)">
+      <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+    </g>
+    <g id="Component_2_511" data-name="Component 2 – 511" transform="matrix(0.998, -0.07, 0.07, 0.998, 562.208, 41.224)">
+      <circle id="Ellipse_8-3" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+    </g>
+    <g id="Component_2_512" data-name="Component 2 – 512" transform="matrix(0.998, -0.07, 0.07, 0.998, 568.208, 41.224)">
+      <circle id="Ellipse_8-4" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+    </g>
+    <g id="Component_2_513" data-name="Component 2 – 513" transform="matrix(0.998, -0.07, 0.07, 0.998, 552.208, 65.224)">
+      <circle id="Ellipse_8-5" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+    </g>
+    <g id="Component_2_514" data-name="Component 2 – 514" transform="matrix(0.998, -0.07, 0.07, 0.998, 559.208, 47.224)">
+      <circle id="Ellipse_8-6" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+    </g>
+    <g id="Component_2_515" data-name="Component 2 – 515" transform="matrix(0.998, -0.07, 0.07, 0.998, 552.208, 47.224)">
+      <circle id="Ellipse_8-7" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" opacity="0.7">
+      <line id="Line_65" data-name="Line 65" x1="6" y2="18" transform="translate(554.5 31.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_66" data-name="Line 66" x2="7" transform="translate(554.5 49.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_67" data-name="Line 67" x1="7" y2="18" transform="translate(554.5 49.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_68" data-name="Line 68" y1="23" x2="16" transform="translate(554.5 44.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_69" data-name="Line 69" x1="6" transform="translate(563.5 43.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_70" data-name="Line 70" y1="14" x2="5" transform="translate(564.5 30.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_71" data-name="Line 71" x1="9" transform="translate(560.5 31.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

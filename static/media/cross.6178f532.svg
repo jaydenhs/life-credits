@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.269" height="48.269" viewBox="0 0 41.269 54.269">
+  <g id="cross" transform="translate(-462 -93.945)">
+    <g id="Group_39" data-name="Group 39" opacity="0.7">
+      <line id="Line_185" data-name="Line 185" y2="13" transform="translate(476.5 96.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_186" data-name="Line 186" x1="11" transform="translate(464.5 108.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_187" data-name="Line 187" y2="12" transform="translate(463.5 109.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_188" data-name="Line 188" x2="10" transform="translate(465.5 121.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_189" data-name="Line 189" y2="25" transform="translate(476.5 121.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_190" data-name="Line 190" x2="14" transform="translate(475.5 146.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_191" data-name="Line 191" y2="25" transform="translate(489.5 121.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_192" data-name="Line 192" x2="12" transform="translate(489.5 121.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_193" data-name="Line 193" y2="12" transform="translate(501.5 109.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_194" data-name="Line 194" x1="13" transform="translate(488.5 108.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_195" data-name="Line 195" y2="12" transform="translate(488.5 96.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_196" data-name="Line 196" x2="12" transform="translate(476.5 95.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+    <circle id="Ellipse_96" data-name="Ellipse 96" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 462, 107.224)" fill="#fff"/>
+    <circle id="Ellipse_104" data-name="Ellipse 104" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 462, 119.224)" fill="#fff"/>
+    <circle id="Ellipse_97" data-name="Ellipse 97" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 474, 107.224)" fill="#fff"/>
+    <circle id="Ellipse_103" data-name="Ellipse 103" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 474, 119.224)" fill="#fff"/>
+    <circle id="Ellipse_98" data-name="Ellipse 98" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 474, 94.224)" fill="#fff"/>
+    <circle id="Ellipse_106" data-name="Ellipse 106" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 474, 144.224)" fill="#fff"/>
+    <circle id="Ellipse_99" data-name="Ellipse 99" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 487, 94.224)" fill="#fff"/>
+    <circle id="Ellipse_107" data-name="Ellipse 107" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 487, 144.224)" fill="#fff"/>
+    <circle id="Ellipse_100" data-name="Ellipse 100" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 487, 107.224)" fill="#fff"/>
+    <circle id="Ellipse_102" data-name="Ellipse 102" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 487, 119.224)" fill="#fff"/>
+    <circle id="Ellipse_101" data-name="Ellipse 101" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 499, 107.224)" fill="#fff"/>
+    <circle id="Ellipse_105" data-name="Ellipse 105" cx="2" cy="2" r="2" transform="matrix(0.998, -0.07, 0.07, 0.998, 499, 119.224)" fill="#fff"/>
+  </g>
+</svg>

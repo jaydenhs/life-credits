@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.548" height="30.279" viewBox="0 0 48.548 30.279">
+  <g id="dumbbell" transform="translate(-556.208 -33.945)">
+    <g id="Group_15" data-name="Group 15" transform="translate(9)">
+      <g id="Component_2_516" data-name="Component 2 – 516" transform="matrix(0.998, -0.07, 0.07, 0.998, 547.208, 60.224)">
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_524" data-name="Component 2 – 524" transform="matrix(0.998, -0.07, 0.07, 0.998, 560.208, 42.224)">
+        <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_526" data-name="Component 2 – 526" transform="matrix(0.998, -0.07, 0.07, 0.998, 560.208, 52.224)">
+        <circle id="Ellipse_8-3" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_517" data-name="Component 2 – 517" transform="matrix(0.998, -0.07, 0.07, 0.998, 547.208, 34.224)">
+        <circle id="Ellipse_8-4" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_518" data-name="Component 2 – 518" transform="matrix(0.998, -0.07, 0.07, 0.998, 560.208, 34.224)">
+        <circle id="Ellipse_8-5" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_519" data-name="Component 2 – 519" transform="matrix(0.998, -0.07, 0.07, 0.998, 560.208, 60.224)">
+        <circle id="Ellipse_8-6" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_531" data-name="Component 2 – 531" transform="matrix(-0.998, -0.07, 0.07, -0.998, 595.478, 64.224)">
+        <circle id="Ellipse_8-7" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_528" data-name="Component 2 – 528" transform="matrix(-0.998, -0.07, 0.07, -0.998, 582.478, 46.224)">
+        <circle id="Ellipse_8-8" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_529" data-name="Component 2 – 529" transform="matrix(-0.998, -0.07, 0.07, -0.998, 582.478, 56.224)">
+        <circle id="Ellipse_8-9" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_527" data-name="Component 2 – 527" transform="matrix(-0.998, -0.07, 0.07, -0.998, 595.478, 38.224)">
+        <circle id="Ellipse_8-10" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_530" data-name="Component 2 – 530" transform="matrix(-0.998, -0.07, 0.07, -0.998, 582.478, 38.224)">
+        <circle id="Ellipse_8-11" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="Component_2_532" data-name="Component 2 – 532" transform="matrix(-0.998, -0.07, 0.07, -0.998, 582.478, 64.224)">
+        <circle id="Ellipse_8-12" data-name="Ellipse 8" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(9)" opacity="0.7">
+      <line id="Line_72" data-name="Line 72" y2="27" transform="translate(549.5 35.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_73" data-name="Line 73" x1="13" transform="translate(549.5 62.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_74" data-name="Line 74" y2="27" transform="translate(562.5 35.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_75" data-name="Line 75" x2="13" transform="translate(549.5 36.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_76" data-name="Line 76" y2="27" transform="translate(593.186 35.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_79" data-name="Line 79" x2="13" transform="translate(580.187 62.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_78" data-name="Line 78" y2="27" transform="translate(580.186 35.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_77" data-name="Line 77" x1="13" transform="translate(580.187 36.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_80" data-name="Line 80" x2="18" transform="translate(562.5 44.5)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_81" data-name="Line 81" x2="18" transform="translate(562.5 54.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
