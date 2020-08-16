@@ -59,9 +59,19 @@
       "role": "sixth grade teacher",
       "description": "thank you for igniting my love for math (and dodgeball)",
       "icon": "apple"
+    },
+    {
+      "name": "Terry Ciona",
+      "role": "my pastor",
+      "description": "thank you for leading the church with authenticity and always encouraging us to give back to the community"
     }
   ],
   "high school": [
+    {
+      "name": "Matt Bunch",
+      "role": "youth group leader",
+      "description": "thank you for helping me overcome my fear of rollercoasters"
+    },
     {
       "name": "Brenda Csordas",
       "role": "biology teacher",
@@ -102,6 +112,11 @@
       "description": "thank you for extending my passion for math beyond the classroom - after all, there are no equations to travel to the moon"
     },
     {
+      "name": "Max Archer",
+      "role": "my friend",
+      "description": "thank you for inspiring me to improve how I articulate my arguments and thoughts"
+    },
+    {
       "name": "Nicole Pugh",
       "role": "my friend",
       "description": "thank you for just radiating kindness and wisdom in every situation"
@@ -132,6 +147,16 @@
       "description": "thank you for always being calm no matter the situation - I'm so glad that you were the first person that I met in uni!"
     },
     {
+      "name": "David Ryu",
+      "role": "fellowship leader",
+      "description": "thank you for reviving my faith outside of its lukewarmness and challenging me to boldly pursue Christ"
+    },
+    {
+      "name": "Dasol Lee",
+      "role": "my friend",
+      "description": "thank you for making me feel welcome at Kingdom Come!"
+    },
+    {
       "name": "Emily Louie",
       "role": "my friend",
       "description": "thank you for supporting me as we walked through mentorships, designathons, building our first portfolios, and our first co-op together!"
@@ -154,6 +179,11 @@
       "description": "thank you for welcoming me to my first year of university acapella!"
     },
     {
+      "name": "Andrew Chow",
+      "role": "my friend",
+      "description": "thank you for encouraging me through my first year of university and allowing me to honestly share my burdens"
+    },
+    {
       "name": "Vevina Trinh",
       "role": "tech+ mentor",
       "description": "thank you for guiding me through the portfolio ideation, design, and development process"
@@ -162,6 +192,11 @@
       "name": "Xiaopu Fung",
       "role": "lab leader",
       "description": "thank you for taking a chance on me, showing me how rewarding public service can be, and demonstrating how to promote diversity from a leadership role"
+    },
+    {
+      "name": "Lukas Rossi",
+      "role": "my friend",
+      "description": "thank you for helping me develop my first portfolio and being the first example of a Christian in the tech industry that I have met!"
     },
     {
       "name": "James Kelly",
@@ -174,6 +209,16 @@
       "role": "acapella group leader",
       "description": "thank you for building a supportive community where people can develop their vocal skills together",
       "icon": "microphone"
+    },
+    {
+      "name": "Joe Dara",
+      "role": "echo compassion designer",
+      "description": "thank you for openly exchanging design advice with me throughout the design-to-dev implementation of the platform"
+    },
+    {
+      "name": "Magdalene Lee",
+      "role": "echo compassion dev",
+      "description": "thank you for patiently teaching me front-end development and Git hygiene"
     },
     {
       "name": "Igor Ivkovic",

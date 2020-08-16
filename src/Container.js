@@ -77,7 +77,6 @@ function Container({ location }) {
                   },
                 },
               },
-              detectRetina: true,
             }}
           />
         </div>

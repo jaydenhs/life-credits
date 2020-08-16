@@ -17,12 +17,19 @@
   z-index: -10;
   position: absolute;
   top: 0;
-  /* bottom: 0; */
   left: 0;
   right: 0;
 
-  width: 100vw; /*otherwise div defaults to page width*/
-  margin: 0 auto; /*horizontally centers div*/
+  width: 100vw;
+  margin: 0 auto;
+  /* z-index: -10;
+  position: absolute;
+  width: 100%;
+  top: 0;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%; */
 }
 
 #particles-js canvas {
