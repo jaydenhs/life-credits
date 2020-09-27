@@ -19,13 +19,16 @@
 /* Style the accordion chevron icon */
 .accordion__icon {
   margin-left: 0.8rem;
-  transition: transform 0.4s ease;
   transform: rotate(-90deg);
+  transition: transform 0.4s ease;
+  will-change: transform;
 }
 
 /* Style to rotate icon when state is active */
 .rotate {
   transform: rotate(0deg);
+  transition: transform 0.4s ease;
+  will-change: transform;
 }
 
 /* Style the accordion content panel. Note: hidden by default */
@@ -34,6 +37,7 @@
   transition: max-height 0.4s ease;
   line-height: 130%;
   background-color: #1a1a1a;
+  will-change: transform;
 }
 
 .accordion__h2 {

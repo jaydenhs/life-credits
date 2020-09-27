@@ -19,8 +19,9 @@
   top: 0;
   left: 0;
   right: 0;
+  height: 600rem !important;
 
-  width: 100vw;
+  /* width: 100vw; */
   margin: 0 auto;
   /* z-index: -10;
   position: absolute;

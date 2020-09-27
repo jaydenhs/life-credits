@@ -1,14 +1,14 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
-import "./App.css";
-import "./styles/Container.css";
+import "../App.css";
+import "../styles/Container.css";
 import styled from "styled-components";
 import { Switch, Route, withRouter } from "react-router-dom";
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 
-import Loading from "./components/Loading";
-import Home from "./components/Home";
-import LearnMore from "./components/LearnMore";
+import Loading from "./Loading";
+import Home from "./Home";
+import LearnMore from "./LearnMore";
 
 import Particles from "react-tsparticles";
 

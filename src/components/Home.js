@@ -13,10 +13,33 @@ let curr_num = 0;
 let icon_pos = "br";
 
 export default class Home extends React.Component {
+  state = {
+    isTop: true,
+  };
+
+  componentDidMount() {
+    document.addEventListener("scroll", () => {
+      //remove bottom of black gradient if at the bottom of the page (document height minus viewport height minus a bit of buffer)
+      const atBottom =
+        window.scrollY <
+        window.document.body.offsetHeight - window.innerHeight - 100;
+      if (atBottom !== this.state.atBottom) {
+        this.setState({ atBottom });
+      }
+    });
+  }
+
   render() {
     return (
       <>
-        <div class="overlay"></div>
+        <div
+          class="overlay"
+          style={{
+            backgroundImage: `linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 15%, rgba(0, 0, 0, 0) 66%, rgba(0, 0, 0, ${
+              this.state.atBottom ? "1" : "0"
+            }) 100%)`,
+          }}
+        ></div>
         <div class="position-relative h-100 text-white">
           <Header />
           <div class="mr-4 ml-4">

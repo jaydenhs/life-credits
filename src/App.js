@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
 import { BrowserRouter as Router } from "react-router-dom";
 
-import Container from "./Container";
+import Container from "./components/Container";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
