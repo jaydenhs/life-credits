@@ -1,5 +1,6 @@
 import React, { useState, useRef } from "react";
 import Chevron from "../icons/Chevron";
+import { useMediaQuery } from "react-responsive";
 import "bootstrap/dist/css/bootstrap.css";
 import "../App.css";
 import "../styles/Person.css";
@@ -13,6 +14,10 @@ function Person(props) {
 
   const content = useRef(null);
 
+  const isTabletOrMobileDevice = useMediaQuery({
+    query: "(max-device-width: 1224px)",
+  });
+
   function toggleAccordion() {
     setActiveState(setActive === "" ? "active" : "");
     setHeightState(
@@ -24,12 +29,16 @@ function Person(props) {
   }
 
   let render_icon;
+
   if (icon !== undefined)
     render_icon = (
       <img
         src={require(`../icons/${icon}.svg`)}
         alt={`${icon} icon`}
         className={`position-absolute icon_${icon_pos}`}
+        style={{
+          margin: `${props.margin * !isTabletOrMobileDevice}rem`,
+        }}
       />
     );
 

@@ -25,7 +25,7 @@ function LearnMore() {
             data-aos-delay="0"
             data-aos-once="true"
           >
-            <img src={Quote} alt="quotation mark" />
+            <img src={Quote} alt="quotation mark" className="left-quote" />
             <div className="larger-margin">
               <span class="quote-text">
                 "For I know the plans I have for you,” declares the Lord,
@@ -38,7 +38,7 @@ function LearnMore() {
             <span className="w-100" id="chunk">
               <img
                 src={Quote}
-                className="d-block ml-auto"
+                className="d-block ml-auto right-quote"
                 alt="quotation mark"
                 style={{ transform: "rotate(180deg)", marginTop: "-1.25rem" }}
               />

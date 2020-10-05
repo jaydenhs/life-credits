@@ -14,3 +14,33 @@
   margin-bottom: 0.8rem;
   display: block;
 }
+
+@media only screen and (min-width: 1000px) {
+  .quote-text {
+    font-family: "Moon-Light", sans-serif;
+    font-size: 1.8rem;
+    color: white;
+  }
+
+  .larger-margin {
+    margin: 0rem 10rem 0rem 10rem;
+  }
+
+  .larger-margin > p,
+  .larger-margin > h1 {
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+    font-size: 1rem;
+    display: block;
+  }
+
+  .left-quote {
+    margin-left: 6rem;
+    width: 2rem;
+  }
+
+  .right-quote {
+    margin-right: 8rem;
+    width: 2rem;
+  }
+}

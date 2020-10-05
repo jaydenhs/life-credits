@@ -64,6 +64,7 @@ export default class Home extends React.Component {
                       info={person}
                       icon_pos={icon_pos}
                       delay={curr_num <= 4 ? curr_num * 200 : 200}
+                      margin={randomFloatFromInterval(5, 9, 1)}
                     />
                   );
                 })}
@@ -75,4 +76,12 @@ export default class Home extends React.Component {
       </>
     );
   }
+}
+
+function randomFloatFromInterval(min, max, fractionDigits) {
+  const fractionMultiplier = Math.pow(10, fractionDigits);
+  return (
+    Math.round((Math.random() * (max - min) + min) * fractionMultiplier) /
+    fractionMultiplier
+  );
 }
