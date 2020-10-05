@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8587ba3d32f62521af2e007c283a9cca",
+    "revision": "fb102f1fa6293c7b1e42726b0bad49de",
     "url": "/life-credits/index.html"
   },
   {
-    "revision": "4903ac369f7dc615a60c",
+    "revision": "07fb26b2e9f87c68ac22",
     "url": "/life-credits/static/css/2.cb62e89c.chunk.css"
   },
   {
-    "revision": "909bc428a8c9a7ca1417",
-    "url": "/life-credits/static/css/main.0f7eb9c7.chunk.css"
+    "revision": "608531fab817cb407017",
+    "url": "/life-credits/static/css/main.179e4d38.chunk.css"
   },
   {
-    "revision": "4903ac369f7dc615a60c",
-    "url": "/life-credits/static/js/2.e112692f.chunk.js"
+    "revision": "07fb26b2e9f87c68ac22",
+    "url": "/life-credits/static/js/2.a0713e3f.chunk.js"
   },
   {
-    "revision": "23e75ecee431f5dfb96fa2deb80f243b",
-    "url": "/life-credits/static/js/2.e112692f.chunk.js.LICENSE.txt"
+    "revision": "15ddef33ad4abcc93846979af382b4bb",
+    "url": "/life-credits/static/js/2.a0713e3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "909bc428a8c9a7ca1417",
-    "url": "/life-credits/static/js/main.2d0856c1.chunk.js"
+    "revision": "608531fab817cb407017",
+    "url": "/life-credits/static/js/main.8b7119e7.chunk.js"
   },
   {
     "revision": "43a1fc31a6f86a03d1cc",
