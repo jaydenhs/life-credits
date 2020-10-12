@@ -37,7 +37,7 @@ function Person(props) {
         alt={`${icon} icon`}
         className={`position-absolute icon_${icon_pos}`}
         style={{
-          margin: `${props.margin * !isTabletOrMobileDevice}rem`,
+          margin: `0 ${props.margin * !isTabletOrMobileDevice}rem`,
         }}
       />
     );

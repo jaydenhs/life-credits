@@ -60,6 +60,7 @@ function LearnMore() {
                   data-aos-delay={700 + 150 * index}
                   data-aos-once="true"
                   dangerouslySetInnerHTML={render_data()}
+                  key={`${index}`}
                 />
               );
             })}

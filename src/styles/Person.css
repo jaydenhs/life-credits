@@ -36,7 +36,6 @@
   overflow: hidden;
   transition: max-height 0.4s ease;
   line-height: 130%;
-  background-color: #1a1a1a;
   will-change: transform;
 }
 
@@ -46,11 +45,11 @@
 }
 
 .accordion__text {
-  width: 65%;
+  width: 70%;
+  background-color: #1a1a1a;
 }
 
 /* Styling Constellation Icons */
-
 .icon_br {
   top: 4rem;
   right: 0rem;
