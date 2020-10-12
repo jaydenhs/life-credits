@@ -211,6 +211,11 @@
       "icon": "microphone"
     },
     {
+      "name": "Darren Allarde",
+      "role": "echo compassion leader",
+      "description": ""
+    },
+    {
       "name": "Joe Dara",
       "role": "echo compassion designer",
       "description": "thank you for openly exchanging design advice with me throughout the design-to-dev implementation of the platform"
@@ -218,7 +223,7 @@
     {
       "name": "Magdalene Lee",
       "role": "echo compassion dev",
-      "description": "thank you for patiently teaching me front-end development and Git hygiene"
+      "description": "thank you for patiently teaching me front-end development best practices and Git hygiene"
     },
     {
       "name": "Igor Ivkovic",
@@ -231,9 +236,24 @@
       "description": "thank you for blending interactivity and art into your lectures"
     },
     {
+      "name": "Stephen Birkett",
+      "role": "linear algebra professor",
+      "description": "thank you for "
+    },
+    {
+      "name": "Simon Wood",
+      "role": "popular music professor",
+      "description": "thank you for your endless enthusiasm and humour when it comes to music history - you've transformed the way that I view the subject"
+    },
+    {
       "name": "Sharon Zheng",
       "role": "tech+ mentor",
       "description": "thank you for inspiring me to integrate my love for design and development into my passion projects"
+    },
+    {
+      "name": "Carol Yao",
+      "role": "design mentor",
+      "description": "thank you for generously giving your time to help me prepare for portfolio reviews and design challenges"
     }
   ]
 }

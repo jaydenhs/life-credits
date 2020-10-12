@@ -6,7 +6,7 @@ import styled from "styled-components";
 import { Switch, Route, withRouter } from "react-router-dom";
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 
-import Loading from "./Loading";
+// import Loading from "./Loading";
 import Home from "./Home";
 import LearnMore from "./LearnMore";
 
@@ -24,8 +24,8 @@ function Container({ location }) {
           >
             <div className="route-section">
               <Switch location={location}>
-                <Route exact path="/life-credits" component={Loading} />
-                <Route path="/life-credits/home" component={Home} />
+                {/* <Route exact path="/life-credits" component={Loading} /> */}
+                <Route exact path="/life-credits" component={Home} />
                 <Route path="/life-credits/learn_more" component={LearnMore} />
               </Switch>
             </div>

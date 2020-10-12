@@ -5,6 +5,7 @@ import "../styles/Home.css";
 import Person from "./Person";
 import Header from "./Header";
 import Footer from "./Footer";
+import Loading from "./Loading";
 
 import data from "../data.json";
 
@@ -13,8 +14,15 @@ let curr_num = 0;
 let icon_pos = "br";
 
 export default class Home extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.loaded = false;
+  }
+
   state = {
     isTop: true,
+    loading: true,
   };
 
   componentDidMount() {
@@ -27,9 +35,14 @@ export default class Home extends React.Component {
         this.setState({ atBottom });
       }
     });
+    setTimeout(() => {
+      this.setState({ loading: false });
+      this.loaded = true;
+    }, 2000);
   }
 
   render() {
+    if (this.state.loading && !this.loaded) return <Loading />;
     return (
       <>
         <div

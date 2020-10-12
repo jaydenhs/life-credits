@@ -2,7 +2,7 @@ import React from "react";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.css";
 
-function Header() {
+function Footer() {
   return (
     <div class="background pb-5">
       <p class="text-center">
@@ -21,4 +21,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Footer;
