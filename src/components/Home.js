@@ -10,22 +10,17 @@ import Loading from "./Loading";
 import data from "../data.json";
 
 let curr_num = 0;
-
 let icon_pos = "br";
+let loaded = false;
 
 export default class Home extends React.Component {
-  constructor(props) {
-    super(props);
-
-    this.loaded = false;
-  }
-
   state = {
     isTop: true,
     loading: true,
   };
 
   componentDidMount() {
+    // console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
     document.addEventListener("scroll", () => {
       //remove bottom of black gradient if at the bottom of the page (document height minus viewport height minus a bit of buffer)
       const atBottom =
@@ -37,12 +32,13 @@ export default class Home extends React.Component {
     });
     setTimeout(() => {
       this.setState({ loading: false });
-      this.loaded = true;
+      loaded = true;
+      // console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
     }, 2000);
   }
 
   render() {
-    if (this.state.loading && !this.loaded) return <Loading />;
+    if (this.state.loading && !loaded) return <Loading />;
     return (
       <>
         <div

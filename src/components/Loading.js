@@ -26,7 +26,7 @@ export default class Loading extends React.Component {
     // }
     return (
       <div
-        className={"align-items-center vh-100 p-4"}
+        className={"align-items-center vh-100 p-4 fade"}
         style={{ display: `${this.state.display}` }}
       >
         <div>

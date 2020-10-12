@@ -7,7 +7,7 @@ import BackArrow from "../icons/BackArrow";
 import { Link, Switch, Route, withRouter } from "react-router-dom";
 
 function Header({ location }) {
-  console.log(location);
+  // console.log(location);
   return (
     <>
       <div class="d-flex flex-row p-4 background" style={{ zIndex: 15 }}>
@@ -17,12 +17,9 @@ function Header({ location }) {
             path="/life-credits/"
             component={() => (
               <>
-                {/* <Link to="/life-credits/" className="top-icon">
+                {/* <a href="https://jaydenh.com/" className="top-icon">
                   <BackArrow height="23px" />
-                </Link> */}
-                <a href="https://jaydenh.com/" className="top-icon">
-                  <BackArrow height="23px" />
-                </a>
+                </a> */}
                 <Link
                   to="/life-credits/learn_more"
                   className="ml-auto top-icon"
