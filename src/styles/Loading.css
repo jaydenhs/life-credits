@@ -15,7 +15,7 @@
   width: 0%;
   height: 100%;
   background-color: #fff;
-  animation: progress 1.4s cubic-bezier(0.42, 0, 0.58, 1) 0.5s;
+  animation: progress 1s cubic-bezier(0.42, 0, 0.58, 1) 0.5s;
   animation-fill-mode: forwards;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .fade {
-  animation: fade_out 2s ease-in-out;
+  animation: fade_out 2s ease-out;
   animation-fill-mode: forwards;
 }
 
@@ -37,7 +37,7 @@
   0% {
     opacity: 100%;
   }
-  90% {
+  85% {
     opacity: 100%;
   }
   100% {

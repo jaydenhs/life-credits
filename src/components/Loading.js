@@ -14,11 +14,11 @@ export default class Loading extends React.Component {
     };
   }
 
-  componentDidMount() {
-    setTimeout(() => {
-      this.setState({ display: "none" });
-    }, 2000);
-  }
+  // componentDidMount() {
+  //   setTimeout(() => {
+  //     this.setState({ display: "none" });
+  //   }, 2000);
+  // }
 
   render() {
     // if (this.state.redirect) {

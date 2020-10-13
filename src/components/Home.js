@@ -30,11 +30,11 @@ export default class Home extends React.Component {
         this.setState({ atBottom });
       }
     });
-    setTimeout(() => {
-      this.setState({ loading: false });
-      loaded = true;
-      // console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
-    }, 2000);
+    // setTimeout(() => {
+    //   this.setState({ loading: false });
+    //   loaded = true;
+    //   // console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
+    // }, 2000);
   }
 
   render() {
