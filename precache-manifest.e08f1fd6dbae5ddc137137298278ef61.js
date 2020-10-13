@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d3a6f8f3931d6b1bcfca55bd44f0b79",
+    "revision": "ac3be66fca7fb7368f17d8804e2035d5",
     "url": "/life-credits/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/life-credits/static/css/2.cb62e89c.chunk.css"
   },
   {
-    "revision": "f0aefd02fa8ea47b72cd",
+    "revision": "3f979fbc37d4d9459b9a",
     "url": "/life-credits/static/css/main.e35396a0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/life-credits/static/js/2.d07b627b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0aefd02fa8ea47b72cd",
-    "url": "/life-credits/static/js/main.44173b87.chunk.js"
+    "revision": "3f979fbc37d4d9459b9a",
+    "url": "/life-credits/static/js/main.66e151b0.chunk.js"
   },
   {
     "revision": "43a1fc31a6f86a03d1cc",
