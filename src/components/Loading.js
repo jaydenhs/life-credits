@@ -25,11 +25,14 @@ export default class Loading extends React.Component {
     //   return <Redirect push to="/life-credits" />;
     // }
     return (
-      <div
-        className={"align-items-center vh-100 p-4 fade"}
-        style={{ display: `${this.state.display}` }}
-      >
-        <div>
+      <div className="d-flex align-items-center vh-100 p-4">
+        <div
+          className="reveal"
+          // data-aos="fade-up"
+          // data-aos-duration="1500"
+          // data-aos-delay="0"
+          // data-aos-once="true"
+        >
           <h1 style={{ fontSize: "5rem", lineHeight: "100%" }}>LIFE CREDITS</h1>
           <div id="prbar" className="mt-4">
             <div id="prpos"></div>

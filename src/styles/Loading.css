@@ -28,19 +28,19 @@
   }
 }
 
-.fade {
-  animation: fade_out 2s ease-out;
+.reveal {
+  animation: fadeOut 2s ease-out;
   animation-fill-mode: forwards;
 }
 
-@keyframes fade_out {
+@keyframes fadeOut {
   0% {
-    opacity: 100%;
+    opacity: 1;
   }
   85% {
-    opacity: 100%;
+    opacity: 1;
   }
   100% {
-    opacity: 0%;
+    opacity: 0;
   }
 }

@@ -55,6 +55,11 @@
       "icon": "smile"
     },
     {
+      "name": "Carina Pai",
+      "role": "my cousin",
+      "description": "thank you for your ever-so-delicious cakes and initiating the next line of waterloo engineering"
+    },
+    {
       "name": "Jeremy Kuikman",
       "role": "sixth grade teacher",
       "description": "thank you for igniting my love for math (and dodgeball)",
@@ -96,6 +101,11 @@
       "description": "thank you for demonstrating what a true passion and appreciation for music and the piano looks like"
     },
     {
+      "name": "Kaelyn Banse",
+      "role": "my friend",
+      "description": "thank you for being such an inspiring creative, a kind classmate, and an excellent photography partner"
+    },
+    {
       "name": "David McCreary",
       "role": "graphic design teacher",
       "description": "thank you for introducing me to the world of graphic design - without it I would have never discovered my passion for UX/UI design!",
@@ -119,13 +129,18 @@
     {
       "name": "Nicole Pugh",
       "role": "my friend",
-      "description": "thank you for just radiating kindness and wisdom in every situation"
+      "description": "thank you for just radiating kindness and light in every situation - i really appreciate it"
     },
     {
       "name": "David Dean",
       "role": "student trustee mentor",
       "description": "thank you for guiding me through my responsibilities as a student trustee and patiently supporting me in my campaigns for student wellbeing",
       "icon": "pen"
+    },
+    {
+      "name": "Becca Vrolyk",
+      "role": "my friend",
+      "description": "thank you for being an amazing photography partner - i always looked forward to our shooting sessions and the ensuing friendly competition"
     },
     {
       "name": "Danielle Curtis",
@@ -154,12 +169,12 @@
     {
       "name": "Dasol Lee",
       "role": "my friend",
-      "description": "thank you for making me feel welcome at Kingdom Come!"
+      "description": "thank you for making me feel welcome at Kingdom Come and always being so supportive!"
     },
     {
       "name": "Emily Louie",
       "role": "my friend",
-      "description": "thank you for supporting me as we walked through mentorships, designathons, building our first portfolios, and our first co-op together!"
+      "description": "thank you for supporting me as we walked through mentorships, workshops, designathons, portfolios, co-ops, and conferences together!"
     },
     {
       "name": "Daniel Kwon",
@@ -179,9 +194,19 @@
       "description": "thank you for welcoming me to my first year of university acapella!"
     },
     {
+      "name": "Matthew Kee",
+      "role": "my friend",
+      "description": "thank you for being such a welcoming face both in and out of class - you light up everywhere you go with your energy and humour"
+    },
+    {
+      "name": "Martha Matsui",
+      "role": "my friend",
+      "description": "thank you for engaging in our endless mischiefs and always being such a good sport for abby and I's jokes"
+    },
+    {
       "name": "Andrew Chow",
       "role": "my friend",
-      "description": "thank you for encouraging me through my first year of university and allowing me to honestly share my burdens"
+      "description": "a true brother in Christ - thank you for encouraging me through my first year of university and allowing me to honestly share my burdens"
     },
     {
       "name": "Vevina Trinh",
@@ -189,9 +214,24 @@
       "description": "thank you for guiding me through the portfolio ideation, design, and development process"
     },
     {
+      "name": "Chalyn Pai",
+      "role": "my cousin",
+      "description": "thank you for baking the most delicious treats and sharing in my appreciation of a good hug"
+    },
+    {
       "name": "Xiaopu Fung",
       "role": "lab leader",
       "description": "thank you for taking a chance on me, showing me how rewarding public service can be, and demonstrating how to promote diversity from a leadership role"
+    },
+    {
+      "name": "Muiz Sohani",
+      "role": "my coworker",
+      "description": "thank you for bringing an infectious enthusiasm and playfulness to our work - you truly made every day enjoyable!"
+    },
+    {
+      "name": "Niya Xu",
+      "role": "my coworker",
+      "description": "thank you for approaching work with such a lighthearted energy - i miss everything from your kpop dance practices to your neverending excitement for food"
     },
     {
       "name": "Lukas Rossi",
@@ -224,6 +264,11 @@
       "name": "Magdalene Lee",
       "role": "echo compassion dev",
       "description": "thank you for patiently teaching me front-end development best practices and Git hygiene"
+    },
+    {
+      "name": "Abby Chan",
+      "role": "my friend",
+      "description": "thank you for always participating in our online school shenanigans and making me laugh SO hard during lectures"
     },
     {
       "name": "Igor Ivkovic",
