@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/life-credits/static/css/main.e35396a0.chunk.css",
-    "main.js": "/life-credits/static/js/main.6ad63455.chunk.js",
-    "main.js.map": "/life-credits/static/js/main.6ad63455.chunk.js.map",
+    "main.js": "/life-credits/static/js/main.44173b87.chunk.js",
+    "main.js.map": "/life-credits/static/js/main.44173b87.chunk.js.map",
     "runtime-main.js": "/life-credits/static/js/runtime-main.7a014fcb.js",
     "runtime-main.js.map": "/life-credits/static/js/runtime-main.7a014fcb.js.map",
     "static/css/2.cb62e89c.chunk.css": "/life-credits/static/css/2.cb62e89c.chunk.css",
     "static/js/2.d07b627b.chunk.js": "/life-credits/static/js/2.d07b627b.chunk.js",
     "static/js/2.d07b627b.chunk.js.map": "/life-credits/static/js/2.d07b627b.chunk.js.map",
     "index.html": "/life-credits/index.html",
-    "precache-manifest.291e031a19527a2458cdca6f1c72615f.js": "/life-credits/precache-manifest.291e031a19527a2458cdca6f1c72615f.js",
+    "precache-manifest.344488b0cb595c626e50c7dd3a0799f8.js": "/life-credits/precache-manifest.344488b0cb595c626e50c7dd3a0799f8.js",
     "service-worker.js": "/life-credits/service-worker.js",
     "static/css/2.cb62e89c.chunk.css.map": "/life-credits/static/css/2.cb62e89c.chunk.css.map",
     "static/css/main.e35396a0.chunk.css.map": "/life-credits/static/css/main.e35396a0.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/css/2.cb62e89c.chunk.css",
     "static/js/2.d07b627b.chunk.js",
     "static/css/main.e35396a0.chunk.css",
-    "static/js/main.6ad63455.chunk.js"
+    "static/js/main.44173b87.chunk.js"
   ]
 }
