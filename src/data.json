@@ -199,7 +199,7 @@
     {
       "name": "David Ryu",
       "role": "fellowship leader",
-      "description": "thank you for reviving my faith outside of its lukewarmness and challenging me to boldly pursue Christ"
+      "description": "thank you for reviving my faith out of its lukewarmness and challenging me to boldly pursue Christ"
     },
     {
       "name": "Dasol Lee",
@@ -210,6 +210,11 @@
       "name": "Emily Louie",
       "role": "my friend",
       "description": "thank you for supporting me as we walked through mentorships, workshops, designathons, portfolios, co-ops, and conferences together!"
+    },
+    {
+      "name": "Daniel Raymond",
+      "role": "my friend",
+      "description": "thank you for striving to create communities and patiently explaining everything from linear algebra to circuitry to me"
     },
     {
       "name": "Daniel Kwon",
@@ -334,6 +339,11 @@
       "name": "Sharon Zheng",
       "role": "tech+ mentor",
       "description": "thank you for inspiring me to integrate my love for design and development into my passion projects"
+    },
+    {
+      "name": "Julia Woodcock",
+      "role": "my friend",
+      "description": "thank you for bringing a lighthearted attitude as we tackled CUTC's marketing campaign together"
     },
     {
       "name": "Carol Yao",
