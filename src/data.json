@@ -78,6 +78,21 @@
       "description": "thank you for helping me overcome my fear of rollercoasters"
     },
     {
+      "name": "Scott Edwards",
+      "role": "english teacher",
+      "description": "thank you for making every day of class such an enjoyable and memorable experience - you helped me feel welcome throughout the transition into high school"
+    },
+    {
+      "name": "Nicola Dean",
+      "role": "english teacher",
+      "description": "thank you for being such a kind soul, always making yourself available to chat, and filling up the halls of our school with your laughter"
+    },
+    {
+      "name": "Matt Weil",
+      "role": "music teacher",
+      "description": "thank you for sacrificing so much of your time and energy to support our school's music programs"
+    },
+    {
       "name": "Brenda Csordas",
       "role": "biology teacher",
       "description": "thank you for having such a contagious passion for biology and dedicating so much of your time to helping me prepare for university",
@@ -96,6 +111,11 @@
       "icon": "beaker"
     },
     {
+      "name": "Stephanie Taylor",
+      "role": "english teacher",
+      "description": "thank you for always encouraging me to put out my best work and just being an all around cool teacher!"
+    },
+    {
       "name": "Nolan Cross",
       "role": "my friend",
       "description": "thank you for demonstrating what a true passion and appreciation for music and the piano looks like"
@@ -106,7 +126,7 @@
       "description": "thank you for being such an inspiring creative, a kind classmate, and an excellent photography partner"
     },
     {
-      "name": "David McCreary",
+      "name": "Dave McCreary",
       "role": "graphic design teacher",
       "description": "thank you for introducing me to the world of graphic design - without it I would have never discovered my passion for UX/UI design!",
       "icon": "cursor"
@@ -115,6 +135,11 @@
       "name": "Naomi Wratten",
       "role": "piano teacher",
       "description": "thank you for providing me with the community and opportunities to push my limits as a pianist"
+    },
+    {
+      "name": "Richard Eyre",
+      "role": "history teacher",
+      "description": "thank you for demonstrating the importance of understanding our past to prepare for our future and just being an all-around fantastic and respectable teacher"
     },
     {
       "name": "Graham Brown",
@@ -132,10 +157,20 @@
       "description": "thank you for just radiating kindness and light in every situation - i really appreciate it"
     },
     {
+      "name": "Lina Elsaadi",
+      "role": "my friend",
+      "description": "thank you for reminding me how good it feels to vibe with someone you share so much in common with"
+    },
+    {
       "name": "David Dean",
       "role": "student trustee mentor",
       "description": "thank you for guiding me through my responsibilities as a student trustee and patiently supporting me in my campaigns for student wellbeing",
       "icon": "pen"
+    },
+    {
+      "name": "Christopher Tracy",
+      "role": "english teacher",
+      "description": "thank you for never shying away from constructively criticizing my work - your class has truly refined me into a better writer and communicator"
     },
     {
       "name": "Becca Vrolyk",
@@ -235,7 +270,7 @@
     },
     {
       "name": "Lukas Rossi",
-      "role": "my friend",
+      "role": "faithtech member",
       "description": "thank you for helping me develop my first portfolio and being the first example of a Christian in the tech industry that I have met!"
     },
     {
@@ -243,6 +278,11 @@
       "role": "faithtech founder",
       "description": "thank you for creating an outlet for so many Christians to use their skills to further God's Kingdom",
       "icon": "cross"
+    },
+    {
+      "name": "Abbie Goulet",
+      "role": "digital sabbath lead",
+      "description": "thank you for connecting me to a fantastic initiative and inspiring me to use my UI/UX design skills for God's kingdom"
     },
     {
       "name": "Ken Ives",

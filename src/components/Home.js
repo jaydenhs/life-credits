@@ -20,7 +20,7 @@ export default class Home extends React.Component {
   };
 
   componentDidMount() {
-    console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
+    // console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
     document.addEventListener("scroll", () => {
       //remove bottom of black gradient if at the bottom of the page (document height minus viewport height minus a bit of buffer)
       const atBottom =
@@ -33,14 +33,14 @@ export default class Home extends React.Component {
     setTimeout(() => {
       this.setState({ loading: false });
       loaded = true;
-      console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
+      // console.log(`loading = ${this.state.loading} and loaded = ${loaded}`);
     }, 2000);
   }
 
   render() {
-    console.log(
-      `this.state.loading && !loaded is ${this.state.loading && !loaded}`
-    );
+    // console.log(
+    //   `this.state.loading && !loaded is ${this.state.loading && !loaded}`
+    // );
     if (this.state.loading && !loaded) return <Loading />;
     return (
       <>
