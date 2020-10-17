@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/life-credits/static/css/main.636f4f3c.chunk.css",
+    "main.css": "/life-credits/static/css/main.be112717.chunk.css",
     "main.js": "/life-credits/static/js/main.2441c15d.chunk.js",
     "main.js.map": "/life-credits/static/js/main.2441c15d.chunk.js.map",
     "runtime-main.js": "/life-credits/static/js/runtime-main.7a014fcb.js",
@@ -9,10 +9,10 @@
     "static/js/2.d07b627b.chunk.js": "/life-credits/static/js/2.d07b627b.chunk.js",
     "static/js/2.d07b627b.chunk.js.map": "/life-credits/static/js/2.d07b627b.chunk.js.map",
     "index.html": "/life-credits/index.html",
-    "precache-manifest.2dd46d025b8a116340f3934497d538f3.js": "/life-credits/precache-manifest.2dd46d025b8a116340f3934497d538f3.js",
+    "precache-manifest.632eaa6d3ee45dd6a3a731a153f80262.js": "/life-credits/precache-manifest.632eaa6d3ee45dd6a3a731a153f80262.js",
     "service-worker.js": "/life-credits/service-worker.js",
     "static/css/2.fa2a57b2.chunk.css.map": "/life-credits/static/css/2.fa2a57b2.chunk.css.map",
-    "static/css/main.636f4f3c.chunk.css.map": "/life-credits/static/css/main.636f4f3c.chunk.css.map",
+    "static/css/main.be112717.chunk.css.map": "/life-credits/static/css/main.be112717.chunk.css.map",
     "static/js/2.d07b627b.chunk.js.LICENSE.txt": "/life-credits/static/js/2.d07b627b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/life-credits/static/media/Moon-Light.9e268827.otf",
     "static/media/apple.svg": "/life-credits/static/media/apple.d83da112.svg",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.7a014fcb.js",
     "static/css/2.fa2a57b2.chunk.css",
     "static/js/2.d07b627b.chunk.js",
-    "static/css/main.636f4f3c.chunk.css",
+    "static/css/main.be112717.chunk.css",
     "static/js/main.2441c15d.chunk.js"
   ]
 }
