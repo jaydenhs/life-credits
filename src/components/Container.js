@@ -41,22 +41,22 @@ function Container({ location }) {
                   value: "#1a1a1a",
                 },
               },
-              fpsLimit: 10,
+              fpsLimit: 1,
               particles: {
                 color: {
                   value: "#cdcdcd",
                 },
                 move: {
                   direction: "none",
-                  enable: true,
-                  speed: 0.15,
+                  enable: false,
+                  speed: 0.01,
                 },
                 number: {
-                  value: 40,
-                  density: {
-                    enable: true,
-                    value_area: 2000,
-                  },
+                  value: 500,
+                  // density: {
+                  //   enable: true,
+                  //   value_area: 2000,
+                  // },
                 },
                 size: {
                   value: 6,
