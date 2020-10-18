@@ -67,13 +67,13 @@ export default class Home extends React.Component {
                 >
                   {section}
                 </h2>
-                {data[section].map((entry) => {
+                {data[section].map((person) => {
                   icon_pos =
                     icon_pos === "br" ? (icon_pos = "bl") : (icon_pos = "br");
                   curr_num++;
                   return (
                     <Person
-                      info={entry}
+                      info={person}
                       icon_pos={icon_pos}
                       delay={curr_num <= 4 ? curr_num * 200 : 200}
                       margin={randomFloatFromInterval(5, 9, 1)}
