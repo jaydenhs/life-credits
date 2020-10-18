@@ -16,7 +16,7 @@ let description = [
 function LearnMore() {
   return (
     <>
-      <div class="position-relative vh-100 text-white">
+      <div class="position-relative text-white">
         <Header />
         <div className="pl-4 pr-4">
           <div
@@ -48,7 +48,7 @@ function LearnMore() {
             </div>
           </div>
 
-          <div className="larger-margin">
+          <div className="larger-margin mb-5">
             {description.map((data, index) => {
               function render_data() {
                 return { __html: data };
