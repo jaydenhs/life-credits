@@ -21,7 +21,10 @@ function Container({ location }) {
             timeout={{ enter: 500, exit: 500 }}
             classNames="fade"
           >
-            <div className="route-section">
+            <div
+              className="route-section"
+              // style={{ backgroundColor: "#1a1a1a" }}
+            >
               <Switch location={location}>
                 {/* <Route exact path="/life-credits" component={Loading} /> */}
                 <Route exact path="/life-credits" component={Home} />

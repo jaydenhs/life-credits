@@ -47,7 +47,7 @@ function Person(props) {
       <div
         data-aos="fade-up"
         data-aos-duration="1000"
-        data-aos-delay={`${props.delay}`}
+        // data-aos-delay={`${props.delay}`}
         data-aos-once="true"
       >
         <div className="accordion__section text-center mb-5">

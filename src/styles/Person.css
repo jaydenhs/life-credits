@@ -1,13 +1,12 @@
-* {
+/* * {
   -webkit-backface-visibility: hidden !important;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
+} */
 
 /* Style the accordion section */
 .accordion__section {
   display: flex;
   flex-direction: column;
-  will-change: auto;
 }
 
 /* Style the buttons that are used to open and close the accordion panel */
@@ -27,14 +26,12 @@
   margin-left: 0.8rem;
   transform: rotate(-90deg);
   transition: transform 0.4s ease;
-  will-change: transform;
 }
 
 /* Style to rotate icon when state is active */
 .rotate {
   transform: rotate(0deg);
   transition: transform 0.4s ease;
-  will-change: transform;
 }
 
 /* Style the accordion content panel. Note: hidden by default */

@@ -57,7 +57,7 @@ function LearnMore() {
                 <p
                   data-aos="fade-up"
                   data-aos-duration="1000"
-                  data-aos-delay={700 + 150 * index}
+                  // data-aos-delay={700 + 150 * index}
                   data-aos-once="true"
                   dangerouslySetInnerHTML={render_data()}
                   key={`${index}`}
