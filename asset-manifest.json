@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/life-credits/static/css/main.36fe0856.chunk.css",
-    "main.js": "/life-credits/static/js/main.b1bee126.chunk.js",
-    "main.js.map": "/life-credits/static/js/main.b1bee126.chunk.js.map",
+    "main.css": "/life-credits/static/css/main.b98ac669.chunk.css",
+    "main.js": "/life-credits/static/js/main.7a590312.chunk.js",
+    "main.js.map": "/life-credits/static/js/main.7a590312.chunk.js.map",
     "runtime-main.js": "/life-credits/static/js/runtime-main.7a014fcb.js",
     "runtime-main.js.map": "/life-credits/static/js/runtime-main.7a014fcb.js.map",
     "static/css/2.cb62e89c.chunk.css": "/life-credits/static/css/2.cb62e89c.chunk.css",
-    "static/js/2.d41a46c5.chunk.js": "/life-credits/static/js/2.d41a46c5.chunk.js",
-    "static/js/2.d41a46c5.chunk.js.map": "/life-credits/static/js/2.d41a46c5.chunk.js.map",
+    "static/js/2.d07b627b.chunk.js": "/life-credits/static/js/2.d07b627b.chunk.js",
+    "static/js/2.d07b627b.chunk.js.map": "/life-credits/static/js/2.d07b627b.chunk.js.map",
     "index.html": "/life-credits/index.html",
-    "precache-manifest.abd414fa06136920e57c869706f12ca9.js": "/life-credits/precache-manifest.abd414fa06136920e57c869706f12ca9.js",
+    "precache-manifest.ed149ff3337ecc58b03046274b8d550b.js": "/life-credits/precache-manifest.ed149ff3337ecc58b03046274b8d550b.js",
     "service-worker.js": "/life-credits/service-worker.js",
     "static/css/2.cb62e89c.chunk.css.map": "/life-credits/static/css/2.cb62e89c.chunk.css.map",
-    "static/css/main.36fe0856.chunk.css.map": "/life-credits/static/css/main.36fe0856.chunk.css.map",
-    "static/js/2.d41a46c5.chunk.js.LICENSE.txt": "/life-credits/static/js/2.d41a46c5.chunk.js.LICENSE.txt",
+    "static/css/main.b98ac669.chunk.css.map": "/life-credits/static/css/main.b98ac669.chunk.css.map",
+    "static/js/2.d07b627b.chunk.js.LICENSE.txt": "/life-credits/static/js/2.d07b627b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/life-credits/static/media/Moon-Light.9e268827.otf",
     "static/media/apple.svg": "/life-credits/static/media/apple.d83da112.svg",
     "static/media/beaker.svg": "/life-credits/static/media/beaker.6e28e158.svg",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.7a014fcb.js",
     "static/css/2.cb62e89c.chunk.css",
-    "static/js/2.d41a46c5.chunk.js",
-    "static/css/main.36fe0856.chunk.css",
-    "static/js/main.b1bee126.chunk.js"
+    "static/js/2.d07b627b.chunk.js",
+    "static/css/main.b98ac669.chunk.css",
+    "static/js/main.7a590312.chunk.js"
   ]
 }
