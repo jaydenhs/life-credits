@@ -9,7 +9,6 @@ import { TransitionGroup, CSSTransition } from "react-transition-group";
 // import Loading from "./Loading";
 import Home from "./Home";
 import LearnMore from "./LearnMore";
-
 import Particles from "react-tsparticles";
 
 function Container({ location }) {
@@ -36,23 +35,18 @@ function Container({ location }) {
           <Particles
             canvasClassName="full-page-container"
             options={{
-              background: {
-                color: {
-                  value: "#1a1a1a",
-                },
-              },
-              fpsLimit: 1,
+              fpsLimit: 30,
               particles: {
                 color: {
                   value: "#cdcdcd",
                 },
                 move: {
                   direction: "none",
-                  enable: false,
-                  speed: 0.01,
+                  enable: true,
+                  speed: 0.5,
                 },
                 number: {
-                  value: 500,
+                  value: 40,
                   // density: {
                   //   enable: true,
                   //   value_area: 2000,

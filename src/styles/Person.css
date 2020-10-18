@@ -1,3 +1,8 @@
+* {
+  -webkit-backface-visibility: hidden !important;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
 /* Style the accordion section */
 .accordion__section {
   display: flex;

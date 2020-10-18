@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 function Footer() {
   return (
-    <div class="background pb-5">
+    <div class="background pb-5 ml-4 mr-4">
       <p class="text-center pb-2">
         A project by{" "}
         <a
