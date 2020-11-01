@@ -88,6 +88,16 @@
       "description": "thank you for being such a kind soul, always making yourself available to chat, and filling up the halls of our school with your laughter"
     },
     {
+      "name": "AJ Vaspori",
+      "role": "my friend",
+      "description": "thank you for demonstrating that with enough hard work, you truly could achieve perfection in courses. I guess effort really can be success!"
+    },
+    {
+      "name": "Brianna Tate",
+      "role": "my friend",
+      "description": "thanks for always keeping me company by that staircase while we were waiting for our rides to come pick us up"
+    },
+    {
       "name": "Matt Weil",
       "role": "music teacher",
       "description": "thank you for sacrificing so much of your time and energy to support our school's music programs"
@@ -107,7 +117,7 @@
     {
       "name": "Michael D'Agostino",
       "role": "chemistry teacher",
-      "description": "thank you for using your incredible intelligence to very patiently teach us about chemistry",
+      "description": "thank you for using your incredible intelligence to very patiently teach us about chemistry and edit my scholarship applications",
       "icon": "beaker"
     },
     {
@@ -121,6 +131,11 @@
       "description": "thank you for demonstrating what a true passion and appreciation for music and the piano looks like"
     },
     {
+      "name": "Abbie Game",
+      "role": "my friend",
+      "description": "thank you for being so so kind and supportive to me throughout high school"
+    },
+    {
       "name": "Kaelyn Banse",
       "role": "my friend",
       "description": "thank you for being such an inspiring creative, a kind classmate, and an excellent photography partner"
@@ -132,6 +147,11 @@
       "icon": "cursor"
     },
     {
+      "name": "Tavia Gairns",
+      "role": "my friend",
+      "description": "thank you for being the person I could bounce graphic designs off of by day and rock dance floors with by night"
+    },
+    {
       "name": "Naomi Wratten",
       "role": "piano teacher",
       "description": "thank you for providing me with the community and opportunities to push my limits as a pianist"
@@ -140,6 +160,11 @@
       "name": "Richard Eyre",
       "role": "history teacher",
       "description": "thank you for demonstrating the importance of understanding our past to prepare for our future and just being an all-around fantastic and respectable teacher"
+    },
+    {
+      "name": "Gurnoor Minhas",
+      "role": "my friend",
+      "description": "thank you for showing me that, yes, Brantford kids can actually make an impact on the world!"
     },
     {
       "name": "Graham Brown",
@@ -166,6 +191,11 @@
       "role": "student trustee mentor",
       "description": "thank you for guiding me through my responsibilities as a student trustee and patiently supporting me in my campaigns for student wellbeing",
       "icon": "pen"
+    },
+    {
+      "name": "Jade Martin",
+      "role": "my friend",
+      "description": "thank you for providing me company during our walks to HEROS and always making the most aesthetic yearbook signings and biology notes!"
     },
     {
       "name": "Christopher Tracy",
