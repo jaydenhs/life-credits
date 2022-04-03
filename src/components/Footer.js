@@ -20,7 +20,7 @@ function Footer() {
       <p class="text-center">
         Special thanks to my mentor{" "}
         <a
-          href="https://sharonzheng.club/"
+          href="https://sharonzheng.com/"
           class="text-white"
           style={{ textDecoration: "underline" }}
           target="_blank"
